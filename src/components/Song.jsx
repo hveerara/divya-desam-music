@@ -1,43 +1,40 @@
-import React from "react";
-import { useLocation, useParams } from "react-router-dom";
+import { useParams } from "react-router-dom";
 import { Card, CardContent, CardDescription } from "semantic-ui-react";
 import ComingSoon from "./ComingSoon";
 import Footer from "./Footer";
 import Navbar from "./Navbar";
-
-export default function Song() {
-  const { title } = useParams();
-  console.log(`title: ${title}`);
-  const location = useLocation();
+export default function Song({ songs }) {
+  let { songTitle } = useParams();
+  const song = songs[songTitle];
+  songTitle = songTitle.replace(/-/g, " ");
   const {
     id,
-    category,
-    song,
     author,
-    songTitle,
-    songRagam,
-    songThalam,
+    category,
+    sthalam,
     songURL,
     songIntro,
     songLyrics,
-  } = location.state;
+    songRagam,
+    songThalam,
+  } = song;
+
   if (songURL && songIntro) {
     return (
       <>
         <Navbar />
-        <div className="container mx-auto my-10 font-poppins">
+        <div>
           <div className="mb-4 p-3 border-solid border-b-2 border-slate-300">
             <h1 className="title-font sm:text-4xl text-3xl mb-2 p-3 font-medium flex items-center justify-center">
-              {id}. {song} : {songTitle}
+              {id}. {sthalam} : {songTitle}
             </h1>
             <h6 className="title-font sm:text-2xl text-2xl mb-2 p-3 font-medium flex items-center justify-center">
               ({category})
             </h6>
           </div>
-
-          <div className="grid grid-cols-1 lg:grid-cols-3 xl:grid-cols-2 p-3 lg:space-x-10 xl:space-x-10">
+          <div className="grid grid-cols-1 lg:grid-cols-3 xl:grid-cols-2 p-3 lg:space-x-10 xl:space-x-10 pb-20">
             <div className="pr-5 pt-4">
-              <div className="grid w-full grid-cols-4 sm:grid-cols-2 border-solid border-b-2 rounded-md p-2">
+              <div className="grid w-full grid-cols-4 sm:grid-cols-2 border-solid border-b-2 rounded-md">
                 <div className="font-light pl-4 grow-0 col-span-1">Title:</div>
                 <div className="font-bold col-span-3 sm:col-span-1 break-words">
                   {songTitle}
@@ -76,7 +73,7 @@ export default function Song() {
                     width="100%"
                     height="100"
                     scrolling="no"
-                    frameborder="no"
+                    frameBorder="no"
                     loading="lazy"
                   ></iframe>
                 </div>
@@ -103,7 +100,7 @@ export default function Song() {
                 src={songLyrics}
                 width="600"
                 height="770"
-                frameborder="no"
+                frameBorder="no"
               ></iframe>
             </div>
           </div>

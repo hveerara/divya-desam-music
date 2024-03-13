@@ -1,32 +1,73 @@
-import {
-  Navigate,
-  Route,
-  BrowserRouter as Router,
-  Routes,
-} from "react-router-dom";
+import { Route, BrowserRouter as Router, Routes } from "react-router-dom";
 import About from "./components/About";
 import Song from "./components/Song";
 import SongCategory from "./components/SongCategory";
+import { songsData } from "./lib/songs-data";
 
 function App() {
+  const chozhaNaadu = songsData["chozhaNaadu"];
+  const naduNaadu = songsData["naduNaadu"];
+  const thondaiNaadu = songsData["thondaiNaadu"];
+  const malaiNaadu = songsData["malaiNaadu"];
   return (
     <>
       <Router>
         <Routes>
           <Route path="/" element={<About />} />
           <Route path="/about" element={<About />} />
-          <Route path="/song" element={<Song />} />
-          <Route path="/song/:title" element={<Song />} />
+          <Route
+            path="/song/chozhaNaadu/:songTitle"
+            element={<Song songs={chozhaNaadu} />}
+          />
           <Route
             path="/chozhaNaadu"
             element={
               <SongCategory
-                category="chozhaNaadu"
-                title="Chozha Naatu Thirupathigal Songs"
+                pageTitle="Chozha Naatu Thirupathigal Songs"
+                songs={chozhaNaadu}
               />
             }
           />
           <Route
+            path="/song/naduNaadu/:songTitle"
+            element={<Song songs={naduNaadu} />}
+          />
+          <Route
+            path="/naduNaadu"
+            element={
+              <SongCategory
+                pageTitle="Nadu Naatu Thirupathigal Songs"
+                songs={naduNaadu}
+              />
+            }
+          />
+          <Route
+            path="/song/thondaiNaadu/:songTitle"
+            element={<Song songs={thondaiNaadu} />}
+          />
+          <Route
+            path="/thondaiNaadu"
+            element={
+              <SongCategory
+                pageTitle="Thondai Naatu Thirupathigal Songs"
+                songs={thondaiNaadu}
+              />
+            }
+          />
+          <Route
+            path="/song/malaiNaadu/:songTitle"
+            element={<Song songs={malaiNaadu} />}
+          />
+          <Route
+            path="/malaiNaadu"
+            element={
+              <SongCategory
+                pageTitle="Malai Naatu Thirupathigal Songs"
+                songs={malaiNaadu}
+              />
+            }
+          />
+          {/* <Route
             path="/malaiNaadu"
             element={
               <SongCategory
@@ -99,7 +140,7 @@ function App() {
               <SongCategory category="mangalam" title="Mangalam Songs" />
             }
           />
-          <Route path="*" element={<Navigate to="/" />} />
+          <Route path="*" element={<Navigate to="/" />} /> */}
         </Routes>
       </Router>
     </>

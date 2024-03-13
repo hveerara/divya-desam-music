@@ -3,7 +3,7 @@ export const getBackgroundImageUrl = (categoryName) => {
     case "ChozhaNaatu Thirupathigal":
       return "url('/img/flower-rose.jpeg')";
     case "ThondaiNaatu Thirupathigal":
-      return "url('/img/flower-mullai.jpeg')";
+      return "url('/img/flower-mullai.jpg')";
     case "MalaiNaatu Thirupathigal":
       return "url('/img/flower-ixora.jpeg')";
     case "PandiyaNaatu Thirupathigal":
