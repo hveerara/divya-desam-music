@@ -6,7 +6,6 @@ export const songsData = {
       naadu: "chozhaNaadu",
       sthalam: "Sri Rangam",
       author: "Dr. D. Veeraragavathatham",
-      superCategory: "Thirupathigal",
       songLyrics:
         "https://drive.google.com/file/d/1Nq_q4-ESqeT1QdCndRkhxLZy_PqW7NsG/preview",
       songTitle: "Noi Attra Vazhvai",
@@ -24,7 +23,6 @@ export const songsData = {
       naadu: "chozhaNaadu",
       sthalam: "Uraiyur",
       author: "Dr. D. Veeraragavathatham",
-      superCategory: "Thirupathigal",
       songLyrics:
         "https://drive.google.com/file/d/1jgLSGys-sLcv4gpt0gI0vE5LJG6fICyc/preview",
       songTitle: "Thirukozhi Ennum Padhiyam",
@@ -42,7 +40,6 @@ export const songsData = {
       naadu: "chozhaNaadu",
       sthalam: "Thirukarambanur",
       author: "Dr. D. Veeraragavathatham",
-      superCategory: "Thirupathigal",
       songLyrics:
         "https://drive.google.com/file/d/1ANEBR2KLKlMA2ThC4qUsozEqQ3W1jnJ_/preview",
       songTitle: "Karambanur Urai Uthamaney",
@@ -59,7 +56,6 @@ export const songsData = {
       naadu: "chozhaNaadu",
       sthalam: "Thiruvellarai",
       author: "Dr. D. Veeraragavathatham",
-      superCategory: "Thirupathigal",
       songLyrics:
         "https://drive.google.com/file/d/1HfQAhLc7Xa_B2H9bt325dWYpV4fmqyhu/preview",
       songTitle: "Vellai Varaahathu Uruvaai",
@@ -77,7 +73,6 @@ export const songsData = {
       naadu: "chozhaNaadu",
       sthalam: "Thiruanbil",
       author: "Dr. D. Veeraragavathatham",
-      superCategory: "Thirupathigal",
       songLyrics:
         "https://drive.google.com/file/d/1NZRQ5MDEHi8hNb1I4fr8Uj6FS3WC_dzQ/preview",
       songTitle: "Kollida Karai Amaindha",
@@ -95,7 +90,6 @@ export const songsData = {
       naadu: "chozhaNaadu",
       sthalam: "Thiruppernagar",
       author: "Dr. D. Veeraragavathatham",
-      superCategory: "Thirupathigal",
       songLyrics:
         "https://drive.google.com/file/d/1HuOeL_Aqz2-_tELUj6v0RRlX55Qucmvd/preview",
       songTitle: "Panja Rangam Thannil",
@@ -113,7 +107,6 @@ export const songsData = {
       naadu: "chozhaNaadu",
       sthalam: "Thirukandiyur",
       author: "Dr. D. Veeraragavathatham",
-      superCategory: "Thirupathigal",
       songLyrics:
         "https://drive.google.com/file/d/11FRHFTygAxfZjWVQ-QQK-AMnbAYV8fjx/preview",
       songTitle: "Thirukandiyur Urai",
@@ -131,7 +124,6 @@ export const songsData = {
       naadu: "chozhaNaadu",
       sthalam: "Thirukoodalur",
       author: "Dr. D. Veeraragavathatham",
-      superCategory: "Thirupathigal",
       songLyrics:
         "https://drive.google.com/file/d/1reH_h3VgYydEG7SQ1uT3ZR6c09waZ3lQ/preview",
       songTitle: "Vayangatha Perumal",
@@ -148,7 +140,6 @@ export const songsData = {
       naadu: "chozhaNaadu",
       sthalam: "Thirukavithalam",
       author: "Dr. D. Veeraragavathatham",
-      superCategory: "Thirupathigal",
       songLyrics:
         "https://drive.google.com/file/d/1jATRx6mokva7HpDfdTUL8AjqBH1KAsF2/preview",
       songTitle: "Kavithalam Urayum Gajendra",
@@ -165,7 +156,6 @@ export const songsData = {
       naadu: "chozhaNaadu",
       sthalam: "Thirupullamboothankudi",
       author: "Dr. D. Veeraragavathatham",
-      superCategory: "Thirupathigal",
       songLyrics:
         "https://drive.google.com/file/d/1j5FnNFREjCAV2tPZtbhLF-dh9qwbg59s/preview",
       songTitle: "Valvil Ramanai Panivaai",
@@ -182,7 +172,6 @@ export const songsData = {
       naadu: "chozhaNaadu",
       sthalam: "Thiruaadhanur",
       author: "Dr. D. Veeraragavathatham",
-      superCategory: "Thirupathigal",
       songLyrics: "",
       songTitle: "Aandalukkum Ayyanai",
       songURL: "",
@@ -198,7 +187,6 @@ export const songsData = {
       naadu: "chozhaNaadu",
       sthalam: "Thirukundandhai",
       author: "Dr. D. Veeraragavathatham",
-      superCategory: "Thirupathigal",
       songLyrics:
         "https://drive.google.com/file/d/17oaVvYNiaTK2oRKxGgaKFZtALunSqkTB/preview",
       songTitle: "Kaviri Arisol Aarugal",
@@ -215,7 +203,6 @@ export const songsData = {
       naadu: "chozhaNaadu",
       sthalam: "Thiruvinnagar",
       author: "Dr. D. Veeraragavathatham",
-      superCategory: "Thirupathigal",
       songLyrics:
         "https://drive.google.com/file/d/17ODdxPCC9R5E1Q-OWKCAhFIJTywA0ZhM/preview",
       songTitle: "Thiruvinnagar Ennum",
@@ -231,7 +218,6 @@ export const songsData = {
       naadu: "chozhaNaadu",
       sthalam: "Thirunarayur",
       author: "Dr. D. Veeraragavathatham",
-      superCategory: "Thirupathigal",
       songLyrics:
         "https://drive.google.com/file/d/1Wo1r-1_bdVhTrpICNBgqkg2sCwtgIbBa/preview",
       songTitle: "Thirumangai Mannan",
@@ -248,7 +234,6 @@ export const songsData = {
       naadu: "chozhaNaadu",
       sthalam: "Thirucherai",
       author: "Dr. D. Veeraragavathatham",
-      superCategory: "Thirupathigal",
       songLyrics:
         "https://drive.google.com/file/d/1gHG7ZZdyf3m2xv9-Eedn8BQifptxQWps/preview",
       songTitle: "Thirucherayil Arulum",
@@ -265,7 +250,6 @@ export const songsData = {
       naadu: "chozhaNaadu",
       sthalam: "Thirukannamangai",
       author: "Dr. D. Veeraragavathatham",
-      superCategory: "Thirupathigal",
       songLyrics:
         "https://drive.google.com/file/d/1AY8QYz-ZxhPviZYRV_PSSHZqCxwK7CD4/preview",
       songTitle: "Kannamangayil Thavamirundha",
@@ -282,7 +266,6 @@ export const songsData = {
       naadu: "chozhaNaadu",
       sthalam: "Thirukannapuram",
       author: "Dr. D. Veeraragavathatham",
-      superCategory: "Thirupathigal",
       songLyrics: "",
       songTitle: "Thirukannapuram",
       songURL: "",
@@ -296,7 +279,6 @@ export const songsData = {
       naadu: "chozhaNaadu",
       sthalam: "Thirukannangudi",
       author: "Dr. D. Veeraragavathatham",
-      superCategory: "Thirupathigal",
       songLyrics:
         "https://drive.google.com/file/d/1tnMUXWpnqlnBhZ9dzcFug0OR16rSb1rY/preview",
       songTitle: "Kannangudi Urayum",
@@ -314,7 +296,6 @@ export const songsData = {
       naadu: "chozhaNaadu",
       sthalam: "Thirunaagai",
       author: "Dr. D. Veeraragavathatham",
-      superCategory: "Thirupathigal",
       songLyrics:
         "https://drive.google.com/file/d/1Y_XEJ9S-XSDpT4zsWmYlTG8e3VnzZ1_A/preview",
       songTitle: "Thirunagayil Ninra",
@@ -331,7 +312,6 @@ export const songsData = {
       naadu: "chozhaNaadu",
       sthalam: "Thiruthanjai Mamanikovil",
       author: "Dr. D. Veeraragavathatham",
-      superCategory: "Thirupathigal",
       songLyrics:
         "https://drive.google.com/file/d/17EmFqqfZp6m-zd8opVNAoLfDEjZA0bwj/preview",
       songTitle: "Muthirukoilgal",
@@ -349,7 +329,6 @@ export const songsData = {
       naadu: "chozhaNaadu",
       sthalam: "Nadhan Kovil",
       author: "Dr. D. Veeraragavathatham",
-      superCategory: "Thirupathigal",
       songLyrics:
         "https://drive.google.com/file/d/1MnFGCLcwJTCAl45s4CDZoCN1kXuwMM_y/preview",
       songTitle: "Shenbagavanam Thannil",
@@ -367,7 +346,6 @@ export const songsData = {
       naadu: "chozhaNaadu",
       sthalam: "Thiruvelliyangudi",
       author: "Dr. D. Veeraragavathatham",
-      superCategory: "Thirupathigal",
       songLyrics:
         "https://drive.google.com/file/d/1BiyAq-TtUCumGK1TuQNDvA_Ws7a74Om5/preview",
       songTitle: "Velliyaar Thavamirundha",
@@ -384,7 +362,6 @@ export const songsData = {
       naadu: "chozhaNaadu",
       sthalam: "Thiruvazhundur",
       author: "Dr. D. Veeraragavathatham",
-      superCategory: "Thirupathigal",
       songLyrics:
         "https://drive.google.com/file/d/1Mmg0mCdkgrLBgBTsHcXll-w0ECcBtcd6/preview",
       songTitle: "Sengamalavalli Udanurai",
@@ -402,7 +379,6 @@ export const songsData = {
       naadu: "chozhaNaadu",
       sthalam: "Thiruchirupuliyur",
       author: "Dr. D. Veeraragavathatham",
-      superCategory: "Thirupathigal",
       songLyrics:
         "https://drive.google.com/file/d/128Kz2rqfwqWJixYLYLghKcKAzhHuNMIn/preview",
       songTitle: "Sirupuliyur Urai",
@@ -420,7 +396,6 @@ export const songsData = {
       naadu: "chozhaNaadu",
       sthalam: "Thalaichanga Naanmadhiyam",
       author: "Dr. D. Veeraragavathatham",
-      superCategory: "Thirupathigal",
       songLyrics:
         "https://drive.google.com/file/d/11JlAwF6Bnah3hB4Nx9NlHHvKBb5lJwqI/preview",
       songTitle: "Muzhumadhi Pol",
@@ -438,7 +413,6 @@ export const songsData = {
       naadu: "chozhaNaadu",
       sthalam: "Thiruindhaloor",
       author: "Dr. D. Veeraragavathatham",
-      superCategory: "Thirupathigal",
       songLyrics:
         "https://drive.google.com/file/d/1sGC35t7WX3gEKBkmXvtZUk6YBhHQlGJD/preview",
       songTitle: "Indhaloor Urai",
@@ -456,7 +430,6 @@ export const songsData = {
       naadu: "chozhaNaadu",
       sthalam: "Thirukaavalampaadi",
       author: "Dr. D. Veeraragavathatham",
-      superCategory: "Thirupathigal",
       songLyrics:
         "https://drive.google.com/file/d/1IXUSwkZmaBBgW1ZYdq5wD2AY4nB6iumP/preview",
       songTitle: "Kaavalam Paadi Ninra",
@@ -474,7 +447,6 @@ export const songsData = {
       naadu: "chozhaNaadu",
       sthalam: "Thirukkazhiseerama Vinnagaram",
       author: "Dr. D. Veeraragavathatham",
-      superCategory: "Thirupathigal",
       songLyrics:
         "https://drive.google.com/file/d/1oYSPDzzU82Oh5xNls2mZ6_AaPT2su9-G/preview",
       songTitle: "Kaazhiseerama Vinnagaram",
@@ -492,7 +464,6 @@ export const songsData = {
       naadu: "chozhaNaadu",
       sthalam: "Thiruarimeya Vinnagaram",
       author: "Dr. D. Veeraragavathatham",
-      superCategory: "Thirupathigal",
       songLyrics:
         "https://drive.google.com/file/d/1o0VKRJisF4b2Y-aTztbg9BMov4DcxE2G/preview",
       songTitle: "Ari Vandhu Meviya Thalam",
@@ -510,7 +481,6 @@ export const songsData = {
       naadu: "chozhaNaadu",
       sthalam: "Thiruvan Purudothamam",
       author: "Dr. D. Veeraragavathatham",
-      superCategory: "Thirupathigal",
       songLyrics:
         "https://drive.google.com/file/d/1fCsxkx9O2moUTauK53xE-M7j7ygtWcwB/preview",
       songTitle: "Vainavar Thalaiva",
@@ -528,7 +498,6 @@ export const songsData = {
       naadu: "chozhaNaadu",
       sthalam: "Thiruchembonsei Kovil",
       author: "Dr. D. Veeraragavathatham",
-      superCategory: "Thirupathigal",
       songLyrics:
         "https://drive.google.com/file/d/15WBQUyvLjEXY8A7pWR4yTNyKta40ah1H/preview",
       songTitle: "Sembon Aranganey",
@@ -546,7 +515,6 @@ export const songsData = {
       naadu: "chozhaNaadu",
       sthalam: "Thirumanimaadakovil",
       author: "Dr. D. Veeraragavathatham",
-      superCategory: "Thirupathigal",
       songLyrics:
         "https://drive.google.com/file/d/1SkQ45VjV26KjPoeCKXgnS0bGTxAbuH4K/preview",
       songTitle: "Naangoor Thirumani",
@@ -564,7 +532,6 @@ export const songsData = {
       naadu: "chozhaNaadu",
       sthalam: "Thiruvaikundhavinnagaram",
       author: "Dr. D. Veeraragavathatham",
-      superCategory: "Thirupathigal",
       songLyrics:
         "https://drive.google.com/file/d/1tSRWoWvqq8ZN_dPGl6Rf2Mef8vQSSwJi/preview",
       songTitle: "Vaikuntha Vinnagaram",
@@ -582,7 +549,6 @@ export const songsData = {
       naadu: "chozhaNaadu",
       sthalam: "Thiruvali-Thirunagari",
       author: "Dr. D. Veeraragavathatham",
-      superCategory: "Thirupathigal",
       songLyrics:
         "https://drive.google.com/file/d/1l1oTnorZRJv4Epdm9gu_-ALO3t-arcQC/preview",
       songTitle: "Iraniyanai Vadam",
@@ -600,7 +566,6 @@ export const songsData = {
       naadu: "chozhaNaadu",
       sthalam: "Thirudevanaar Thogai",
       author: "Dr. D. Veeraragavathatham",
-      superCategory: "Thirupathigal",
       songLyrics:
         "https://drive.google.com/file/d/14JeLJTSTmHI_4Ue8dreNydMm00n8Lw6t/preview",
       songTitle: "DevargalKoodi",
@@ -618,7 +583,6 @@ export const songsData = {
       naadu: "chozhaNaadu",
       sthalam: "Thiruthettri Ambalam",
       author: "Dr. D. Veeraragavathatham",
-      superCategory: "Thirupathigal",
       songLyrics:
         "https://drive.google.com/file/d/15CHU4ugq80PRIu99TdNB-3JbRB6ZG1qP/preview",
       songTitle: "Senganmaal Aranga",
@@ -636,7 +600,6 @@ export const songsData = {
       naadu: "chozhaNaadu",
       sthalam: "Thirumanikoodam",
       author: "Dr. D. Veeraragavathatham",
-      superCategory: "Thirupathigal",
       songLyrics:
         "https://drive.google.com/file/d/1jvBF169G4wDHnzBy-M073oDvzy4JrbH3/preview",
       songTitle: "Thirumanikooda Varadarajane",
@@ -654,7 +617,6 @@ export const songsData = {
       naadu: "chozhaNaadu",
       sthalam: "Thiruvellakulam",
       author: "Dr. D. Veeraragavathatham",
-      superCategory: "Thirupathigal",
       songLyrics:
         "https://drive.google.com/file/d/16YjWDT3EGuwdjJlqjoQQq8YrvXj86GTI/preview",
       songTitle: "Vellakulathurayum",
@@ -672,7 +634,6 @@ export const songsData = {
       naadu: "chozhaNaadu",
       sthalam: "Thirupaarthanpalli",
       author: "Dr. D. Veeraragavathatham",
-      superCategory: "Thirupathigal",
       songLyrics:
         "https://drive.google.com/file/d/1Vyp5ybENbBvPgjK0PxCbNUWfz1w3F5f8/preview",
       songTitle: "Paarthan Palli",
@@ -690,7 +651,6 @@ export const songsData = {
       naadu: "chozhaNaadu",
       sthalam: "Thiruchithrakoodam",
       author: "Dr. D. Veeraragavathatham",
-      superCategory: "Thirupathigal",
       songLyrics:
         "https://drive.google.com/file/d/1YsavCkIxffEokbqwKq9Q9nZC-g6sA11L/preview",
       songTitle: "Thillai Nagar",
@@ -710,7 +670,6 @@ export const songsData = {
       naadu: "naduNaadu",
       sthalam: "Thiruvayindrapuram",
       author: "Dr. D. Veeraragavathatham",
-      superCategory: "Thirupathigal",
       songLyrics:
         "https://drive.google.com/file/d/1DBd4rEQvRGhK3EVqofBaDpOz4VzbGZL0/preview",
       songTitle: "Adisedan Than",
@@ -728,7 +687,6 @@ export const songsData = {
       naadu: "naduNaadu",
       sthalam: "Thirukovalur",
       author: "Dr. D. Veeraragavathatham",
-      superCategory: "Thirupathigal",
       songLyrics:
         "https://drive.google.com/file/d/1MIkDwSbmoszXIng8CJwlZoE0ASyrsT1N/preview",
       songTitle: "Thirukkovalur Valar",
@@ -748,7 +706,6 @@ export const songsData = {
       naadu: "thondaiNaadu",
       sthalam: "Thirukacchi",
       author: "Dr. D. Veeraragavathatham",
-      superCategory: "Thirupathigal",
       songLyrics:
         "https://drive.google.com/file/d/13j4glnhQDKxrAonH0LLZy3lUo_UefFLI/preview",
       songTitle: "Devaraja Sri Devaraja",
@@ -764,7 +721,6 @@ export const songsData = {
       naadu: "thondaiNaadu",
       sthalam: "Attapuyakaram",
       author: "Dr. D. Veeraragavathatham",
-      superCategory: "Thirupathigal",
       songLyrics:
         "https://drive.google.com/file/d/1EZQtyU4h3RTFQIGts-AqXoxpl68IGJg5/preview",
       songTitle: "Ettu Puyangalil",
@@ -782,7 +738,6 @@ export const songsData = {
       naadu: "thondaiNaadu",
       sthalam: "Thiruthanka",
       author: "Dr. D. Veeraragavathatham",
-      superCategory: "Thirupathigal",
       songLyrics:
         "https://drive.google.com/file/d/1ZrHmewW0UoIDRfux4cLHYqIHet-7vORP/preview",
       songTitle: "Thiruthanka Urai",
@@ -800,7 +755,6 @@ export const songsData = {
       naadu: "thondaiNaadu",
       sthalam: "Thiruvelukkai",
       author: "Dr. D. Veeraragavathatham",
-      superCategory: "Thirupathigal",
       songLyrics:
         "https://drive.google.com/file/d/10Ne_UCMDST14qEIo_pYghgqqhUPqvapD/preview",
       songTitle: "Velukkai Amarndhan",
@@ -818,7 +772,6 @@ export const songsData = {
       naadu: "thondaiNaadu",
       sthalam: "Thirukeeragam",
       author: "Dr. D. Veeraragavathatham",
-      superCategory: "Thirupathigal",
       songLyrics:
         "https://drive.google.com/file/d/1ArYtqKNRoRpSH3R4y7dCK9rYCDclE0FG/preview",
       songTitle: "Aalilai Mel",
@@ -836,7 +789,6 @@ export const songsData = {
       naadu: "thondaiNaadu",
       sthalam: "Thirupaadagam",
       author: "Dr. D. Veeraragavathatham",
-      superCategory: "Thirupathigal",
       songLyrics:
         "https://drive.google.com/file/d/1x9i88ctbB8Wemt-hMEupVzyIJbbldLWp/preview",
       songTitle: "Thirupadagam Thannil",
@@ -854,7 +806,6 @@ export const songsData = {
       naadu: "thondaiNaadu",
       sthalam: "Thirunilathingal Thundam",
       author: "Dr. D. Veeraragavathatham",
-      superCategory: "Thirupathigal",
       songLyrics:
         "https://drive.google.com/file/d/1gVjlSXG31JpbU2eABSYgkk1GYBL8Q8td/preview",
       songTitle: "Kacchi Nagar",
@@ -872,7 +823,6 @@ export const songsData = {
       naadu: "thondaiNaadu",
       sthalam: "Thiruooragam",
       author: "Dr. D. Veeraragavathatham",
-      superCategory: "Thirupathigal",
       songLyrics:
         "https://drive.google.com/file/d/1lDVY7MvFEOpHxkSm5KTtJ3642TDm44gm/preview",
       songTitle: "Madhil Kacchi",
@@ -889,7 +839,6 @@ export const songsData = {
       naadu: "thondaiNaadu",
       sthalam: "Thiruvekka",
       author: "Dr. D. Veeraragavathatham",
-      superCategory: "Thirupathigal",
       songLyrics:
         "https://drive.google.com/file/d/1SNdXq-Usz6nHDzSmF_mNCXe11v1df2jw/preview",
       songTitle: "Sonna Vannam",
@@ -906,7 +855,6 @@ export const songsData = {
       naadu: "thondaiNaadu",
       sthalam: "Thirukkaragam",
       author: "Dr. D. Veeraragavathatham",
-      superCategory: "Thirupathigal",
       songLyrics:
         "https://drive.google.com/file/d/1eFunTcBZvxxxzC2uqcU2VnWFRCWDMTa3/preview",
       songTitle: "Thirukaaraga Karunakara",
@@ -924,7 +872,6 @@ export const songsData = {
       naadu: "thondaiNaadu",
       sthalam: "Thirukkaarvaanam",
       author: "Dr. D. Veeraragavathatham",
-      superCategory: "Thirupathigal",
       songLyrics:
         "https://drive.google.com/file/d/1U4QF7G89DUzCj50qI9Qj_CNeuRYvnSit/preview",
       songTitle: "Thirukkar Vaanathul",
@@ -942,7 +889,6 @@ export const songsData = {
       naadu: "thondaiNaadu",
       sthalam: "Thirukalvanoor",
       author: "Dr. D. Veeraragavathatham",
-      superCategory: "Thirupathigal",
       songLyrics:
         "https://drive.google.com/file/d/1WTdk0w7_rs8yRpsXNdw61QMGKlCTnEuj/preview",
       songTitle: "Anjilai Valli",
@@ -960,7 +906,6 @@ export const songsData = {
       naadu: "thondaiNaadu",
       sthalam: "Thirupavalavannam",
       author: "Dr. D. Veeraragavathatham",
-      superCategory: "Thirupathigal",
       songLyrics:
         "https://drive.google.com/file/d/1LE7jdt-ny4QM6MLhLogQ76AFl-oBIJao/preview",
       songTitle: "Kacchi Thannil",
@@ -978,7 +923,6 @@ export const songsData = {
       naadu: "thondaiNaadu",
       sthalam: "Thiruparamechura Vinnagaram",
       author: "Dr. D. Veeraragavathatham",
-      superCategory: "Thirupathigal",
       songLyrics:
         "https://drive.google.com/file/d/1ith0Z5UT9BR-apIVUoHUKNTJi-HYttjH/preview",
       songTitle: "Thirupparameswara Vinnagaram",
@@ -996,7 +940,6 @@ export const songsData = {
       naadu: "thondaiNaadu",
       sthalam: "Thiruputkuzhi",
       author: "Dr. D. Veeraragavathatham",
-      superCategory: "Thirupathigal",
       songLyrics:
         "https://drive.google.com/file/d/1cWMj5iiHLDL9E-iHuf7LtDya8FMx_Wbd/preview",
       songTitle: "Chadhur Buja Vijaya Ragava",
@@ -1014,7 +957,6 @@ export const songsData = {
       naadu: "thondaiNaadu",
       sthalam: "Thiruninravoor",
       author: "Dr. D. Veeraragavathatham",
-      superCategory: "Thirupathigal",
       songLyrics:
         "https://drive.google.com/file/d/1u2vIh_4rK4YrzNgiePBs7dypWnfignUQ/preview",
       songTitle: "Kadal Arasanidam",
@@ -1032,7 +974,6 @@ export const songsData = {
       naadu: "thondaiNaadu",
       sthalam: "Thiruevvul",
       author: "Dr. D. Veeraragavathatham",
-      superCategory: "Thirupathigal",
       songLyrics:
         "https://drive.google.com/file/d/18uOZub-NI1kaAiJOC3LNG1vwouXePSJQ/preview",
       songTitle: "Evvul Kidnadha Endhai",
@@ -1050,7 +991,6 @@ export const songsData = {
       naadu: "thondaiNaadu",
       sthalam: "Thiruvallikeni",
       author: "Dr. D. Veeraragavathatham",
-      superCategory: "Thirupathigal",
       songLyrics:
         "https://drive.google.com/file/d/1IfNnFwoBbbZdfTdsmWpV1NMJfGss5DzW/preview",
       songTitle: "Krishna Venkata Krishna",
@@ -1068,7 +1008,6 @@ export const songsData = {
       naadu: "thondaiNaadu",
       sthalam: "Thiruneermalai",
       author: "Dr. D. Veeraragavathatham",
-      superCategory: "Thirupathigal",
       songLyrics:
         "https://drive.google.com/file/d/1ILtxs779nc038bL2al2ujtNl8cQTOaLw/preview",
       songTitle: "Ninra Thirukkolam Kaatum",
@@ -1086,7 +1025,6 @@ export const songsData = {
       naadu: "thondaiNaadu",
       sthalam: "Thiruvidavendhai",
       author: "Dr. D. Veeraragavathatham",
-      superCategory: "Thirupathigal",
       songLyrics:
         "https://drive.google.com/file/d/19b4PzgBiCxGncqn2m1xJDUYTOGAVsOdP/preview",
       songTitle: "Thiruvinai Idappuram Thaangiya",
@@ -1104,7 +1042,6 @@ export const songsData = {
       naadu: "thondaiNaadu",
       sthalam: "Thirukadalmallai",
       author: "Dr. D. Veeraragavathatham",
-      superCategory: "Thirupathigal",
       songLyrics:
         "https://drive.google.com/file/d/1_yYMvRaZXHY2_VeX-q1rdrp-s9SnDcnt/preview",
       songTitle: "Thirukadal Mallai Sayanithavaa",
@@ -1122,7 +1059,6 @@ export const songsData = {
       naadu: "thondaiNaadu",
       sthalam: "Thirukkadigai",
       author: "Dr. D. Veeraragavathatham",
-      superCategory: "Thirupathigal",
       songLyrics:
         "https://drive.google.com/file/d/1W5oY42YPNF1PpE5BatyxV2FLtrXr1wqV/preview",
       songTitle: "Yoga Narasimhane Nin",
@@ -1142,7 +1078,6 @@ export const songsData = {
       naadu: "malaiNaadu",
       sthalam: "Thirunaavaai",
       author: "Dr. D. Veeraragavathatham",
-      superCategory: "Thirupathigal",
       songLyrics:
         "https://drive.google.com/file/d/1tP715cKt-4paQ_aAH2IQdmGbVphKJ8PR/preview",
       songTitle: "Thirunaavaai Valar",
@@ -1160,7 +1095,6 @@ export const songsData = {
       naadu: "malaiNaadu",
       sthalam: "Thiruvithuvakodu",
       author: "Dr. D. Veeraragavathatham",
-      superCategory: "Thirupathigal",
       songLyrics:
         "https://drive.google.com/file/d/1SEHjiTkPlEiRNLJb6_r6hXbLOriZZbMH/preview",
       songTitle: "Uyya Vandha Perumale",
@@ -1178,7 +1112,6 @@ export const songsData = {
       naadu: "malaiNaadu",
       sthalam: "Thirukaatkarai",
       author: "Dr. D. Veeraragavathatham",
-      superCategory: "Thirupathigal",
       songLyrics:
         "https://drive.google.com/file/d/1SphxhTtDerJpoB2b-dySHe-_sQZTOEVJ/preview",
       songTitle: "Vaamananaai Vandhu Moovadi",
@@ -1196,7 +1129,6 @@ export const songsData = {
       naadu: "malaiNaadu",
       sthalam: "Thirumoozhikalam",
       author: "Dr. D. Veeraragavathatham",
-      superCategory: "Thirupathigal",
       songLyrics:
         "https://drive.google.com/file/d/12t29ZfvyqyPXcEgpseYoHtH0ns8Xl8X-/preview",
       songTitle: "Thirumoozhi Kalathuraivai",
@@ -1214,7 +1146,6 @@ export const songsData = {
       naadu: "malaiNaadu",
       sthalam: "Thiruvallavaazh",
       author: "Dr. D. Veeraragavathatham",
-      superCategory: "Thirupathigal",
       songLyrics:
         "https://drive.google.com/file/d/194-grnac0Ey3ze4Jl2KGTwefzIP9K7NP/preview",
       songTitle: "Thiruvalla Vaazhil",
@@ -1232,7 +1163,6 @@ export const songsData = {
       naadu: "malaiNaadu",
       sthalam: "Thirukadithaanam",
       author: "Dr. D. Veeraragavathatham",
-      superCategory: "Thirupathigal",
       songLyrics:
         "https://drive.google.com/file/d/1R0sQPhVarAXpiLIppMTQCxHt1UW9Z_Hr/preview",
       songTitle: "Thirukadithaana Arpudha Naranaa",
@@ -1243,6 +1173,70 @@ export const songsData = {
       songIntro:
         "<span>The 70th DD Thirukadithanam (திருக்கடித் தானம்)  is situated 3km east of a place called Changanassery which is in between Kottayam and Thiruvalla. The Presiding deity is Arputha Narayanan. Tha purana goes like this. Once upon a time from the gardens of the King Rukmankadhan Devas from eternal world used to collect beautiful flowers without his knowledge and offered to the Lord Vishnu for Puja. When the king came to know this he captured all Devas and imprisoned them with the result they could not return to eternal world. When Devas wanted a remedy for this they heard a voice from the air that if king Rukmangatha gives away his 'Punya' of Ekadasi Vridha he adopted to Devas they would be able to return to the divine world. So they prayed the king to help them. King Rukmangatha brought them in front of this deity and gave away all 'Punyas' by which the Devas were relieved of their sin and they reached their divine world. All these were said to have happened in a time of one 'Kadigai' or Naazhingai 'நாழிகை' that is 24 minutes. So it is said that if anybody does a serious prayer for a period of one Kadigai time in this shrine his/her prayers will be fulfilled.If they desire 'Moksha ' and pray for 24 minutes in this shrine it will also be fulfilled by the Lord of this shrine. Among the Panchapandavas, the youngest brother Sahadevan was said to have renovated this temple and worshipped the Lord. Thaayaar name is Karpagavalli Nammazhwaar has praised this Lord in 11 paasurams. Adiyen composed a krithi on this shrine tuned to ragam Hamsanadham ( ஹம்ஸநாதம்) sang along with my wife Mrs. Amutha. Please listen and enjoy.🙏</span>",
       songTunedLike: "Bantu Reeti Koluvu",
+    },
+    Imayavarappan: {
+      id: "71",
+      category: "Malai Naatu Thirupathigal",
+      naadu: "malaiNaadu",
+      sthalam: "Thiruchenkunrur",
+      author: "Dr. D. Veeraragavathatham",
+      songLyrics: "",
+      songTitle: "Imayavarappan",
+      songURL:
+        "https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1773796218&color=%23b4e8e8&auto_play=false&hide_related=true&show_comments=false&show_user=true&show_reposts=false&show_teaser=false",
+      songRagam: "Dharbaar",
+      songThalam: "",
+      songIntro:
+        "<span><p>The 71st DD is Thiruchenkunrur can be reached from Thiruvalla by bus. From Thiruvananthapuram to Ernakulam via Kollam there is a railway station Chenkannur. From this station one can reach the temple.</p><br/><p>The presiding deity is Imayavar Appan. Thaayaar name is Senkamalavalli. Thiruchitraaru is the river that flows near this shrine.</p><br/<p>During Mahabharatha war King Dharma told a lie that Ashvathama, son of Dhrona, died hiding the fact that an elephant in the name Ashvathama died. When Dhrona heard this he was much upset and put down his bow and arrows. He was defeated  and  killed in the war. To do the prayachitha for the sin committed king Dharma came to this forest and performed Thapa. He also renovated the temple for Mahavishnu here and performed Pooja. Since Lord Mahavishnu was considered as father of Devas in this shrine his name goes as இமையவர் அப்பன். Nammazhwaar praised this shrine in 10 paasurams. Adiyen composed a krithi on this lord tuned to ragam Dharbaar. Please listen and enjoy.</p></span>",
+      songTunedLike: "",
+    },
+    Kuttanaadenum: {
+      id: "72",
+      category: "Malai Naatu Thirupathigal",
+      naadu: "malaiNaadu",
+      sthalam: "Thirupuliyur",
+      author: "Dr. D. Veeraragavathatham",
+      songLyrics: "",
+      songTitle: "Kuttanaadenum",
+      songURL:
+        "https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1773797505&color=%23b4e8e8&auto_play=false&hide_related=true&show_comments=false&show_user=true&show_reposts=false&show_teaser=false",
+      songRagam: "Saranga",
+      songThalam: "",
+      songIntro:
+        "<span><p>Dear all, in our musical journey to DDs let us proceed to 72nd DD திருப்புலியூர் (a) குட்டநாடு. From Thiruchenkunnur one can travel by bus to reach this shrine.</p><br/><p>Once upon a time when King Vrishadharbi, son of Sibi Chakravarty, had a serious disease and the country also had severe poverty. When Saptha Rishis visited his country, he demanded that if they make the country to flourish he would give the great Dhaana to them. Agitated Rishis refused that. So the king became angry and performed a yaga from which one ferocious Devatha came to kill the Rishis. When the Rishis prayed to Mahavishnu, he ordered Lord Indra to destroy that devatha. Indra came in the form of a tiger and destroyed him.</p><br/><p>Presiding Deity is Mayapiran and Thaayaar name is Porkodi Naachiaar. Among the Pancha Pandavas, Bhima renovated this shrine. Among Aazhwars, Nammazhwar has praised this Deity in 11 Pasurams. Thirumangai Aazhwaar praised this Deity in his Siriya Thirumadal. Adiyen composed a krithi on this shrine, tuned to ragam Saaranga (சாரங்கா) and sang with my wife Mrs. Amutha. Please listen and enjoy.</p></span>",
+      songTunedLike: "",
+    },
+    "Thiruvaaranvilai-Urai": {
+      id: "73",
+      category: "Malai Naatu Thirupathigal",
+      naadu: "malaiNaadu",
+      sthalam: "Thiruvaaranvilai",
+      author: "Dr. D. Veeraragavathatham",
+      songLyrics: "",
+      songTitle: "Thiruvaaranvilai Urai",
+      songURL:
+        "https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1773802245&color=%23b4e8e8&auto_play=false&hide_related=true&show_comments=false&show_user=true&show_reposts=false&show_teaser=false",
+      songRagam: "Rathipathipriya",
+      songThalam: "",
+      songIntro:
+        "<span><p>Dear all, we will now travel through our musical journey to 73rd DD திருவாறன்விளை (ஆரம்முளா). It is situated at a distance of about 10km from Chenkannur, Keral.</p><br/><p>During the Mahabharatha period, when Pandavaas were in the forest to hide and live they came to this place. Arjuna kept his Bows and arrows under a vanni tree and buried them so that nobody could see. During the war as directed by Krishna, Arjuna killed Karna when he was in distress because the wheel of his chariot got stuck in to the soil. To do the prayachitha for that deed, Arjuna came back to this place again and performed Thapa praying to Lord Mahavishnu. He renovated the temple here and worshipped the Lord.</p><br/><p>Brahma had also expressed his gratitude at this shrine because Vishnu had killed the asuras Madhu and Kaidapa and got the Vedas back, and Vishnu appeared as திருக்குறளப்பன் in answer to the prayers of Brahma.<p>The presiding deity is திருக்குறளப்பன். Thaayaar name is Padmasani Thaayaar. Nammaazhvar has praised this Lord in 11 paasurams. Adiyen composed a krithi on this shrine tuned to ragam ரதிபதிப்ரியா. I have sung this song along with my wife Mrs. Amutha and my daughter Mrs. Hema. Please listen and enjoy 🙏</p></span>",
+      songTunedLike: "",
+    },
+    "Thiruvanvandoor-Selveno": {
+      id: "74",
+      category: "Malai Naatu Thirupathigal",
+      naadu: "malaiNaadu",
+      sthalam: "Thiruvanvandoor",
+      author: "Dr. D. Veeraragavathatham",
+      songLyrics: "",
+      songTitle: "Thiruvanvandoor Selveno",
+      songURL:
+        "https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1773802245&color=%23b4e8e8&auto_play=false&hide_related=true&show_comments=false&show_user=true&show_reposts=false&show_teaser=false",
+      songRagam: "Jonpuri",
+      songThalam: "",
+      songIntro:
+        "<span>Dear all, our musical journey is now towards 74th DD. It is situated about three and half miles North of Chenkannur viz., in between Chenkannur and Thiruvella on the route of Erimelikkarai on the northern side of river Pamba.</p><br/><p>The purana goes like this: Once there was an argument between Brahma and saint Naradha when Brahma cursed him to go to Booloka. So he got down from Sathyaloka and reached this place where he performed Thapa. When Lord Mahavishnu appeared before him Naradha asked about the basis of creation of life. Lord Mahavishnu explained and Naradha understood that every living and non living thing comes from Narayana only who is the sole creator of the Universe. So Naradha wrote this as Naratheya purana. Among the Pancha Pandavas who came to this place Nakula worshipped this Lord and renovated the temple.</p><br/><p>The presiding deity is கமலநாதன் (a) பாம்பணையப்பன். Thaayaar name is கமலவல்லி நாச்சியார். Nammaazhvar has praised this Lord in 10 paasurams. Adiyen composed a krithi on this shrine tuned to raagam ஜோன்புரி sang with my wife Mrs. Amutha. Please listen and enjoy 🙏</p></span>",
+      songTunedLike: "",
     },
   },
 };
