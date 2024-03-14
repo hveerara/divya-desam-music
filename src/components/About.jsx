@@ -10,13 +10,13 @@ export default function About() {
         id="about"
         className="flex flex-col items-center justify-center font-poppins "
       >
-        <div
+        {/* <div
           className="fixed inset-0 bg-contain bg-no-repeat bg-center"
           style={{
             backgroundImage: "url(/img/Ranga.jpeg)",
             margin: 0,
           }}
-        ></div>
+        ></div> */}
         <div className="flex flex-col items-center py-10 justify-center bold text-center backdrop-filter backdrop-blur-md text-gray-800">
           <h1 className="title-font sm:text-4xl text-3xl mb-2 font-medium ">
             Welcome!

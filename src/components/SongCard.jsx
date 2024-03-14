@@ -15,13 +15,13 @@ export default function SongCard(props) {
         <CardContent className="align-items-left justify-center backdrop-filter backdrop-blur-sm">
           {props.category !== "Mangalam" && props.category !== "Prayer" && (
             <CardHeader>
-              <span className="text-left">Sthalam: </span>
-              {props.sthalam}
+              <span className="text-left font-bold">Sthalam: </span>
+              <span className="text-left font-bold">{props.sthalam}</span>
             </CardHeader>
           )}
           <CardMeta>
-            <span className="align-items-left text-left">Song: </span>
-            {songTitle}
+            <span className="align-items-left text-left font-bold">Song: </span>
+            <span className="text-left font-bold">{songTitle}</span>
           </CardMeta>
         </CardContent>
       ) : (

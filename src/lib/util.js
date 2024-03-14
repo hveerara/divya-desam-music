@@ -1,25 +1,25 @@
 export const getBackgroundImageUrl = (categoryName) => {
   switch (categoryName) {
-    case "ChozhaNaatu Thirupathigal":
-      return "url('/img/flower-rose.jpeg')";
-    case "ThondaiNaatu Thirupathigal":
-      return "url('/img/flower-mullai.jpg')";
-    case "MalaiNaatu Thirupathigal":
-      return "url('/img/flower-ixora.jpeg')";
-    case "PandiyaNaatu Thirupathigal":
-      return "url('/img/flower-jasmine.jpeg')";
-    case "VadaNaatu Thirupathigal":
-      return "url('/img/flower-chrysanthemum.jpeg')";
-    case "NaduNaatu Thirupathigal":
-      return "url('/img/thulasi.jpeg')";
+    case "Chozha Naatu Thirupathigal":
+      return "url('/img/flower-red-jerberas.jpeg')";
+    case "Nadu Naatu Thirupathigal":
+      return "url('/img/flower-red-hibiscus.jpeg')";
+    case "Thondai Naatu Thirupathigal":
+      return "url('/img/flower-white-chrysanthemum.jpeg')";
+    case "Malai Naatu Thirupathigal":
+      return "url('/img/flower-orange-daisy.jpeg')";
+    case "Pandiya Naatu Thirupathigal":
+      return "url('/img/flower-red-hibiscus.jpeg')";
+    case "Vada Naatu Thirupathigal":
+      return "url('/img/flower-pink-humming-favs.jpeg')";
     case "Thirupparkadal Thirupathigal":
-      return "url('/img/flower-lily.jpeg')";
+      return "url('/img/flower-red-rose.jpeg')";
     case "Thiruparamapada Thirupathigal":
-      return "url('/img/flower-lotus.jpeg')";
+      return "url('/img/flower-red-hibiscus.jpeg')";
     case "Mangalam":
-      return "url('/img/deepam.png')";
+      return "url('/img/flower-white-chrysanthemum.jpeg')";
     case "Prayer":
-      return "url('/img/flowers-mixed.jpeg')";
+      return "url('/img/flower-white-daisies.jpeg')";
     default:
       return "";
   }

@@ -2,8 +2,7 @@ export const songsData = {
   chozhaNaadu: {
     "Noi-Attra-Vazhvai": {
       id: "1",
-      category: "ChozhaNaatu Thirupathigal",
-      naadu: "chozhaNaadu",
+      category: "Chozha Naatu Thirupathigal",
       naadu: "chozhaNaadu",
       sthalam: "Sri Rangam",
       author: "Dr. D. Veeraragavathatham",
@@ -21,7 +20,7 @@ export const songsData = {
     },
     "Thirukozhi-Ennum-Padhiyam": {
       id: "2",
-      category: "ChozhaNaatu Thirupathigal",
+      category: "Chozha Naatu Thirupathigal",
       naadu: "chozhaNaadu",
       sthalam: "Uraiyur",
       author: "Dr. D. Veeraragavathatham",
@@ -39,7 +38,7 @@ export const songsData = {
     },
     "Karambanur-Urai-Uthamaney": {
       id: "3",
-      category: "ChozhaNaatu Thirupathigal",
+      category: "Chozha Naatu Thirupathigal",
       naadu: "chozhaNaadu",
       sthalam: "Thirukarambanur",
       author: "Dr. D. Veeraragavathatham",
@@ -56,7 +55,7 @@ export const songsData = {
     },
     "Vellai-Varaahathu-Uruvaai": {
       id: "4",
-      category: "ChozhaNaatu Thirupathigal",
+      category: "Chozha Naatu Thirupathigal",
       naadu: "chozhaNaadu",
       sthalam: "Thiruvellarai",
       author: "Dr. D. Veeraragavathatham",
@@ -74,7 +73,7 @@ export const songsData = {
     },
     "Kollida-Karai-Amaindha": {
       id: "5",
-      category: "ChozhaNaatu Thirupathigal",
+      category: "Chozha Naatu Thirupathigal",
       naadu: "chozhaNaadu",
       sthalam: "Thiruanbil",
       author: "Dr. D. Veeraragavathatham",
@@ -92,7 +91,7 @@ export const songsData = {
     },
     "Panja Rangam Thannil": {
       id: "6",
-      category: "ChozhaNaatu Thirupathigal",
+      category: "Chozha Naatu Thirupathigal",
       naadu: "chozhaNaadu",
       sthalam: "Thiruppernagar",
       author: "Dr. D. Veeraragavathatham",
@@ -110,7 +109,7 @@ export const songsData = {
     },
     "Thirukandiyur-Urai": {
       id: "7",
-      category: "ChozhaNaatu Thirupathigal",
+      category: "Chozha Naatu Thirupathigal",
       naadu: "chozhaNaadu",
       sthalam: "Thirukandiyur",
       author: "Dr. D. Veeraragavathatham",
@@ -128,7 +127,7 @@ export const songsData = {
     },
     "Vayangatha-Perumal": {
       id: "8",
-      category: "ChozhaNaatu Thirupathigal",
+      category: "Chozha Naatu Thirupathigal",
       naadu: "chozhaNaadu",
       sthalam: "Thirukoodalur",
       author: "Dr. D. Veeraragavathatham",
@@ -145,7 +144,7 @@ export const songsData = {
     },
     "Kavithalam-Urayum-Gajendra": {
       id: "9",
-      category: "ChozhaNaatu Thirupathigal",
+      category: "Chozha Naatu Thirupathigal",
       naadu: "chozhaNaadu",
       sthalam: "Thirukavithalam",
       author: "Dr. D. Veeraragavathatham",
@@ -162,7 +161,7 @@ export const songsData = {
     },
     "Valvil-Ramanai-Panivaai": {
       id: "10",
-      category: "ChozhaNaatu Thirupathigal",
+      category: "Chozha Naatu Thirupathigal",
       naadu: "chozhaNaadu",
       sthalam: "Thirupullamboothankudi",
       author: "Dr. D. Veeraragavathatham",
@@ -179,7 +178,7 @@ export const songsData = {
     },
     "Aandalukkum-Ayyanai": {
       id: "11",
-      category: "ChozhaNaatu Thirupathigal",
+      category: "Chozha Naatu Thirupathigal",
       naadu: "chozhaNaadu",
       sthalam: "Thiruaadhanur",
       author: "Dr. D. Veeraragavathatham",
@@ -195,7 +194,7 @@ export const songsData = {
     },
     "Kaviri-Arisol-Aarugal": {
       id: "12",
-      category: "ChozhaNaatu Thirupathigal",
+      category: "Chozha Naatu Thirupathigal",
       naadu: "chozhaNaadu",
       sthalam: "Thirukundandhai",
       author: "Dr. D. Veeraragavathatham",
@@ -212,7 +211,7 @@ export const songsData = {
     },
     "Thiruvinnagar-Ennum": {
       id: "13",
-      category: "ChozhaNaatu Thirupathigal",
+      category: "Chozha Naatu Thirupathigal",
       naadu: "chozhaNaadu",
       sthalam: "Thiruvinnagar",
       author: "Dr. D. Veeraragavathatham",
@@ -228,7 +227,7 @@ export const songsData = {
     },
     "Thirumangai-Mannan": {
       id: "14",
-      category: "ChozhaNaatu Thirupathigal",
+      category: "Chozha Naatu Thirupathigal",
       naadu: "chozhaNaadu",
       sthalam: "Thirunarayur",
       author: "Dr. D. Veeraragavathatham",
@@ -245,7 +244,7 @@ export const songsData = {
     },
     "Thirucherayil-Arulum": {
       id: "15",
-      category: "ChozhaNaatu Thirupathigal",
+      category: "Chozha Naatu Thirupathigal",
       naadu: "chozhaNaadu",
       sthalam: "Thirucherai",
       author: "Dr. D. Veeraragavathatham",
@@ -262,7 +261,7 @@ export const songsData = {
     },
     "Kannamangayil-Thavamirundha": {
       id: "16",
-      category: "ChozhaNaatu Thirupathigal",
+      category: "Chozha Naatu Thirupathigal",
       naadu: "chozhaNaadu",
       sthalam: "Thirukannamangai",
       author: "Dr. D. Veeraragavathatham",
@@ -279,7 +278,7 @@ export const songsData = {
     },
     Thirukannapuram: {
       id: "17",
-      category: "ChozhaNaatu Thirupathigal",
+      category: "Chozha Naatu Thirupathigal",
       naadu: "chozhaNaadu",
       sthalam: "Thirukannapuram",
       author: "Dr. D. Veeraragavathatham",
@@ -293,7 +292,7 @@ export const songsData = {
     },
     "Kannangudi-Urayum": {
       id: "18",
-      category: "ChozhaNaatu Thirupathigal",
+      category: "Chozha Naatu Thirupathigal",
       naadu: "chozhaNaadu",
       sthalam: "Thirukannangudi",
       author: "Dr. D. Veeraragavathatham",
@@ -311,7 +310,7 @@ export const songsData = {
     },
     "Thirunagayil-Ninra": {
       id: "19",
-      category: "ChozhaNaatu Thirupathigal",
+      category: "Chozha Naatu Thirupathigal",
       naadu: "chozhaNaadu",
       sthalam: "Thirunaagai",
       author: "Dr. D. Veeraragavathatham",
@@ -328,7 +327,7 @@ export const songsData = {
     },
     Muthirukoilgal: {
       id: "20",
-      category: "ChozhaNaatu Thirupathigal",
+      category: "Chozha Naatu Thirupathigal",
       naadu: "chozhaNaadu",
       sthalam: "Thiruthanjai Mamanikovil",
       author: "Dr. D. Veeraragavathatham",
@@ -346,7 +345,7 @@ export const songsData = {
     },
     "Shenbagavanam-Thannil": {
       id: "21",
-      category: "ChozhaNaatu Thirupathigal",
+      category: "Chozha Naatu Thirupathigal",
       naadu: "chozhaNaadu",
       sthalam: "Nadhan Kovil",
       author: "Dr. D. Veeraragavathatham",
@@ -364,7 +363,7 @@ export const songsData = {
     },
     "Velliyaar-Thavamirundha": {
       id: "22",
-      category: "ChozhaNaatu Thirupathigal",
+      category: "Chozha Naatu Thirupathigal",
       naadu: "chozhaNaadu",
       sthalam: "Thiruvelliyangudi",
       author: "Dr. D. Veeraragavathatham",
@@ -381,7 +380,7 @@ export const songsData = {
     },
     "Sengamalavalli-Udanurai": {
       id: "23",
-      category: "ChozhaNaatu Thirupathigal",
+      category: "Chozha Naatu Thirupathigal",
       naadu: "chozhaNaadu",
       sthalam: "Thiruvazhundur",
       author: "Dr. D. Veeraragavathatham",
@@ -399,7 +398,7 @@ export const songsData = {
     },
     "Sirupuliyur-Urai": {
       id: "24",
-      category: "ChozhaNaatu Thirupathigal",
+      category: "Chozha Naatu Thirupathigal",
       naadu: "chozhaNaadu",
       sthalam: "Thiruchirupuliyur",
       author: "Dr. D. Veeraragavathatham",
@@ -417,7 +416,7 @@ export const songsData = {
     },
     "Muzhumadhi-Pol": {
       id: "25",
-      category: "ChozhaNaatu Thirupathigal",
+      category: "Chozha Naatu Thirupathigal",
       naadu: "chozhaNaadu",
       sthalam: "Thalaichanga Naanmadhiyam",
       author: "Dr. D. Veeraragavathatham",
@@ -435,7 +434,7 @@ export const songsData = {
     },
     "Indhaloor-Urai": {
       id: "26",
-      category: "ChozhaNaatu Thirupathigal",
+      category: "Chozha Naatu Thirupathigal",
       naadu: "chozhaNaadu",
       sthalam: "Thiruindhaloor",
       author: "Dr. D. Veeraragavathatham",
@@ -453,7 +452,7 @@ export const songsData = {
     },
     "Kaavalam-Paadi-Ninra": {
       id: "27",
-      category: "ChozhaNaatu Thirupathigal",
+      category: "Chozha Naatu Thirupathigal",
       naadu: "chozhaNaadu",
       sthalam: "Thirukaavalampaadi",
       author: "Dr. D. Veeraragavathatham",
@@ -471,7 +470,7 @@ export const songsData = {
     },
     "Kaazhiseerama-Vinnagaram": {
       id: "28",
-      category: "ChozhaNaatu Thirupathigal",
+      category: "Chozha Naatu Thirupathigal",
       naadu: "chozhaNaadu",
       sthalam: "Thirukkazhiseerama Vinnagaram",
       author: "Dr. D. Veeraragavathatham",
@@ -489,7 +488,7 @@ export const songsData = {
     },
     "Ari-Vandhu-Meviya-Thalam": {
       id: "29",
-      category: "ChozhaNaatu Thirupathigal",
+      category: "Chozha Naatu Thirupathigal",
       naadu: "chozhaNaadu",
       sthalam: "Thiruarimeya Vinnagaram",
       author: "Dr. D. Veeraragavathatham",
@@ -507,7 +506,7 @@ export const songsData = {
     },
     "Vainavar-Thalaiva": {
       id: "30",
-      category: "ChozhaNaatu Thirupathigal",
+      category: "Chozha Naatu Thirupathigal",
       naadu: "chozhaNaadu",
       sthalam: "Thiruvan Purudothamam",
       author: "Dr. D. Veeraragavathatham",
@@ -525,7 +524,7 @@ export const songsData = {
     },
     "Sembon-Aranganey": {
       id: "31",
-      category: "ChozhaNaatu Thirupathigal",
+      category: "Chozha Naatu Thirupathigal",
       naadu: "chozhaNaadu",
       sthalam: "Thiruchembonsei Kovil",
       author: "Dr. D. Veeraragavathatham",
@@ -543,7 +542,7 @@ export const songsData = {
     },
     "Naangoor-Thirumani": {
       id: "32",
-      category: "ChozhaNaatu Thirupathigal",
+      category: "Chozha Naatu Thirupathigal",
       naadu: "chozhaNaadu",
       sthalam: "Thirumanimaadakovil",
       author: "Dr. D. Veeraragavathatham",
@@ -561,7 +560,7 @@ export const songsData = {
     },
     "Vaikuntha-Vinnagaram": {
       id: "33",
-      category: "ChozhaNaatu Thirupathigal",
+      category: "Chozha Naatu Thirupathigal",
       naadu: "chozhaNaadu",
       sthalam: "Thiruvaikundhavinnagaram",
       author: "Dr. D. Veeraragavathatham",
@@ -579,7 +578,7 @@ export const songsData = {
     },
     "Iraniyanai-Vadam": {
       id: "34",
-      category: "ChozhaNaatu Thirupathigal",
+      category: "Chozha Naatu Thirupathigal",
       naadu: "chozhaNaadu",
       sthalam: "Thiruvali-Thirunagari",
       author: "Dr. D. Veeraragavathatham",
@@ -597,7 +596,7 @@ export const songsData = {
     },
     DevargalKoodi: {
       id: "35",
-      category: "ChozhaNaatu Thirupathigal",
+      category: "Chozha Naatu Thirupathigal",
       naadu: "chozhaNaadu",
       sthalam: "Thirudevanaar Thogai",
       author: "Dr. D. Veeraragavathatham",
@@ -615,7 +614,7 @@ export const songsData = {
     },
     "Senganmaal-Aranga": {
       id: "36",
-      category: "ChozhaNaatu Thirupathigal",
+      category: "Chozha Naatu Thirupathigal",
       naadu: "chozhaNaadu",
       sthalam: "Thiruthettri Ambalam",
       author: "Dr. D. Veeraragavathatham",
@@ -633,7 +632,7 @@ export const songsData = {
     },
     "Thirumanikooda-Varadarajane": {
       id: "37",
-      category: "ChozhaNaatu Thirupathigal",
+      category: "Chozha Naatu Thirupathigal",
       naadu: "chozhaNaadu",
       sthalam: "Thirumanikoodam",
       author: "Dr. D. Veeraragavathatham",
@@ -651,7 +650,7 @@ export const songsData = {
     },
     Vellakulathurayum: {
       id: "38",
-      category: "ChozhaNaatu Thirupathigal",
+      category: "Chozha Naatu Thirupathigal",
       naadu: "chozhaNaadu",
       sthalam: "Thiruvellakulam",
       author: "Dr. D. Veeraragavathatham",
@@ -669,7 +668,7 @@ export const songsData = {
     },
     "Paarthan Palli": {
       id: "39",
-      category: "ChozhaNaatu Thirupathigal",
+      category: "Chozha Naatu Thirupathigal",
       naadu: "chozhaNaadu",
       sthalam: "Thirupaarthanpalli",
       author: "Dr. D. Veeraragavathatham",
@@ -687,7 +686,7 @@ export const songsData = {
     },
     "Thillai Nagar": {
       id: "40",
-      category: "ChozhaNaatu Thirupathigal",
+      category: "Chozha Naatu Thirupathigal",
       naadu: "chozhaNaadu",
       sthalam: "Thiruchithrakoodam",
       author: "Dr. D. Veeraragavathatham",
@@ -707,7 +706,7 @@ export const songsData = {
   naduNaadu: {
     "Adisedan-Than": {
       id: "41",
-      category: "NaduNaatu Thirupathigal",
+      category: "Nadu Naatu Thirupathigal",
       naadu: "naduNaadu",
       sthalam: "Thiruvayindrapuram",
       author: "Dr. D. Veeraragavathatham",
@@ -725,7 +724,7 @@ export const songsData = {
     },
     "Thirukkovalur-Valar": {
       id: "42",
-      category: "NaduNaatu Thirupathigal",
+      category: "Nadu Naatu Thirupathigal",
       naadu: "naduNaadu",
       sthalam: "Thirukovalur",
       author: "Dr. D. Veeraragavathatham",
@@ -745,7 +744,7 @@ export const songsData = {
   thondaiNaadu: {
     "Devaraja-Sri-Devaraja": {
       id: "43",
-      category: "ThondaiNaatu Thirupathigal",
+      category: "Thondai Naatu Thirupathigal",
       naadu: "thondaiNaadu",
       sthalam: "Thirukacchi",
       author: "Dr. D. Veeraragavathatham",
@@ -761,7 +760,7 @@ export const songsData = {
     },
     "Ettu-Puyangalil": {
       id: "44",
-      category: "ThondaiNaatu Thirupathigal",
+      category: "Thondai Naatu Thirupathigal",
       naadu: "thondaiNaadu",
       sthalam: "Attapuyakaram",
       author: "Dr. D. Veeraragavathatham",
@@ -779,7 +778,7 @@ export const songsData = {
     },
     "Thiruthanka-Urai": {
       id: "45",
-      category: "ThondaiNaatu Thirupathigal",
+      category: "Thondai Naatu Thirupathigal",
       naadu: "thondaiNaadu",
       sthalam: "Thiruthanka",
       author: "Dr. D. Veeraragavathatham",
@@ -797,7 +796,7 @@ export const songsData = {
     },
     "Velukkai-Amarndhan": {
       id: "46",
-      category: "ThondaiNaatu Thirupathigal",
+      category: "Thondai Naatu Thirupathigal",
       naadu: "thondaiNaadu",
       sthalam: "Thiruvelukkai",
       author: "Dr. D. Veeraragavathatham",
@@ -815,7 +814,7 @@ export const songsData = {
     },
     "Aalilai-Mel": {
       id: "47",
-      category: "ThondaiNaatu Thirupathigal",
+      category: "Thondai Naatu Thirupathigal",
       naadu: "thondaiNaadu",
       sthalam: "Thirukeeragam",
       author: "Dr. D. Veeraragavathatham",
@@ -828,12 +827,12 @@ export const songsData = {
       songRagam: "Gowri Manohari",
       songThalam: "Aadi",
       songIntro:
-        "<span>Thiruneeragam is the 47th Divyadesam situated in Kancheepuram itself in the Kamatchi Amman sannathi street. The presiding deity is Urchavar with the name Jagadheeswara perumal and there is no moolavr. The shrine is situated inside the temple of another Divyadesam namely Thiruooragam. Thaayaar name is Nilamangaivalli. When Rishi Maarkandeyar requested Lord Mahavishnu to show the avatar he is going to take at the tome of Pralayam (end of the world) He showed him that he was going to be like a small baby on a baniyan leaf which will float on the furious flood water. Perumal has also a name Neeragathaan. It symbolises that as water rushes towards the place  where there is a small opening or hole this Lord flows in to the hearts of Bhakthas and fill their souls. ThirumangaiAazhwaar praised this Lord in one paasuram. Adiyen composed a Krithi on this Lord tuned to the raagam Gowri manohari sang with my wife Mrs Amutha. Please listen along with some songs tuned in the same raagam</span>",
+        "<span>Thiruneeragam is the 47th Divyadesam situated in Kancheepuram itself in the Kamatchi Amman sannathi street. The presiding deity is Urchavar with the name Jagadheeswara perumal and there is no moolavr. The shrine is situated inside the temple of another Divyadesam namely Thiruooragam. Thaayaar name is Nilamangaivalli. When Rishi Maarkandeyar requested Lord Mahavishnu to show the avatar he is going to take at the tome of Pralayam (end of the world) He showed him that he was going to be like a small baby on a baniyan leaf which will float on the furious flood water. Perumal has also a name Neeragathaan. It symbolises that as water rushes towards the place  where there is a small opening or hole this Lord flows in to the hearts of Bhakthas and fill their souls. ThirumangaiAazhwaar praised this Lord in one paasuram. Adiyen composed a Krithi on this Lord tuned to the raagam Gowri manohari sang with my wife Mrs Amutha.</span>",
       songTunedLike: "",
     },
     "Thirupadagam-Thannil": {
       id: "48",
-      category: "ThondaiNaatu Thirupathigal",
+      category: "Thondai Naatu Thirupathigal",
       naadu: "thondaiNaadu",
       sthalam: "Thirupaadagam",
       author: "Dr. D. Veeraragavathatham",
@@ -851,7 +850,7 @@ export const songsData = {
     },
     "Kacchi-Nagar": {
       id: "49",
-      category: "ThondaiNaatu Thirupathigal",
+      category: "Thondai Naatu Thirupathigal",
       naadu: "thondaiNaadu",
       sthalam: "Thirunilathingal Thundam",
       author: "Dr. D. Veeraragavathatham",
@@ -869,7 +868,7 @@ export const songsData = {
     },
     "Madhil-Kacchi": {
       id: "50",
-      category: "ThondaiNaatu Thirupathigal",
+      category: "Thondai Naatu Thirupathigal",
       naadu: "thondaiNaadu",
       sthalam: "Thiruooragam",
       author: "Dr. D. Veeraragavathatham",
@@ -886,7 +885,7 @@ export const songsData = {
     },
     "Sonna-Vannam": {
       id: "51",
-      category: "ThondaiNaatu Thirupathigal",
+      category: "Thondai Naatu Thirupathigal",
       naadu: "thondaiNaadu",
       sthalam: "Thiruvekka",
       author: "Dr. D. Veeraragavathatham",
@@ -903,7 +902,7 @@ export const songsData = {
     },
     "Thirukaaraga-Karunakara": {
       id: "52",
-      category: "ThondaiNaatu Thirupathigal",
+      category: "Thondai Naatu Thirupathigal",
       naadu: "thondaiNaadu",
       sthalam: "Thirukkaragam",
       author: "Dr. D. Veeraragavathatham",
@@ -921,7 +920,7 @@ export const songsData = {
     },
     "Thirukkar-Vaanathul": {
       id: "53",
-      category: "ThondaiNaatu Thirupathigal",
+      category: "Thondai Naatu Thirupathigal",
       naadu: "thondaiNaadu",
       sthalam: "Thirukkaarvaanam",
       author: "Dr. D. Veeraragavathatham",
@@ -939,7 +938,7 @@ export const songsData = {
     },
     "Anjilai-Valli": {
       id: "54",
-      category: "ThondaiNaatu Thirupathigal",
+      category: "Thondai Naatu Thirupathigal",
       naadu: "thondaiNaadu",
       sthalam: "Thirukalvanoor",
       author: "Dr. D. Veeraragavathatham",
@@ -957,7 +956,7 @@ export const songsData = {
     },
     "Kacchi-Thannil": {
       id: "55",
-      category: "ThondaiNaatu Thirupathigal",
+      category: "Thondai Naatu Thirupathigal",
       naadu: "thondaiNaadu",
       sthalam: "Thirupavalavannam",
       author: "Dr. D. Veeraragavathatham",
@@ -975,7 +974,7 @@ export const songsData = {
     },
     "Thirupparameswara-Vinnagaram": {
       id: "56",
-      category: "ThondaiNaatu Thirupathigal",
+      category: "Thondai Naatu Thirupathigal",
       naadu: "thondaiNaadu",
       sthalam: "Thiruparamechura Vinnagaram",
       author: "Dr. D. Veeraragavathatham",
@@ -993,7 +992,7 @@ export const songsData = {
     },
     "Chadhur-Buja-Vijaya-Ragava": {
       id: "57",
-      category: "ThondaiNaatu Thirupathigal",
+      category: "Thondai Naatu Thirupathigal",
       naadu: "thondaiNaadu",
       sthalam: "Thiruputkuzhi",
       author: "Dr. D. Veeraragavathatham",
@@ -1011,7 +1010,7 @@ export const songsData = {
     },
     "Kadal-Arasanidam": {
       id: "58",
-      category: "ThondaiNaatu Thirupathigal",
+      category: "Thondai Naatu Thirupathigal",
       naadu: "thondaiNaadu",
       sthalam: "Thiruninravoor",
       author: "Dr. D. Veeraragavathatham",
@@ -1029,7 +1028,7 @@ export const songsData = {
     },
     "Evvul-Kidnadha-Endhai": {
       id: "59",
-      category: "ThondaiNaatu Thirupathigal",
+      category: "Thondai Naatu Thirupathigal",
       naadu: "thondaiNaadu",
       sthalam: "Thiruevvul",
       author: "Dr. D. Veeraragavathatham",
@@ -1047,7 +1046,7 @@ export const songsData = {
     },
     "Krishna-Venkata-Krishna": {
       id: "60",
-      category: "ThondaiNaatu Thirupathigal",
+      category: "Thondai Naatu Thirupathigal",
       naadu: "thondaiNaadu",
       sthalam: "Thiruvallikeni",
       author: "Dr. D. Veeraragavathatham",
@@ -1065,7 +1064,7 @@ export const songsData = {
     },
     "Ninra-Thirukkolam-Kaatum": {
       id: "61",
-      category: "ThondaiNaatu Thirupathigal",
+      category: "Thondai Naatu Thirupathigal",
       naadu: "thondaiNaadu",
       sthalam: "Thiruneermalai",
       author: "Dr. D. Veeraragavathatham",
@@ -1083,7 +1082,7 @@ export const songsData = {
     },
     "Thiruvinai-Idappuram-Thaangiya": {
       id: "62",
-      category: "ThondaiNaatu Thirupathigal",
+      category: "Thondai Naatu Thirupathigal",
       naadu: "thondaiNaadu",
       sthalam: "Thiruvidavendhai",
       author: "Dr. D. Veeraragavathatham",
@@ -1101,7 +1100,7 @@ export const songsData = {
     },
     "Thirukadal-Mallai-Sayanithavaa": {
       id: "63",
-      category: "ThondaiNaatu Thirupathigal",
+      category: "Thondai Naatu Thirupathigal",
       naadu: "thondaiNaadu",
       sthalam: "Thirukadalmallai",
       author: "Dr. D. Veeraragavathatham",
@@ -1119,7 +1118,7 @@ export const songsData = {
     },
     "Yoga-Narasimhane-Nin": {
       id: "64",
-      category: "ThondaiNaatu Thirupathigal",
+      category: "Thondai Naatu Thirupathigal",
       naadu: "thondaiNaadu",
       sthalam: "Thirukkadigai",
       author: "Dr. D. Veeraragavathatham",
@@ -1139,7 +1138,7 @@ export const songsData = {
   malaiNaadu: {
     "Thirunaavaai-Valar": {
       id: "65",
-      category: "MalaiNaatu Thirupathigal",
+      category: "Malai Naatu Thirupathigal",
       naadu: "malaiNaadu",
       sthalam: "Thirunaavaai",
       author: "Dr. D. Veeraragavathatham",
@@ -1157,7 +1156,7 @@ export const songsData = {
     },
     "Uyya-Vandha-Perumale": {
       id: "66",
-      category: "MalaiNaatu Thirupathigal",
+      category: "Malai Naatu Thirupathigal",
       naadu: "malaiNaadu",
       sthalam: "Thiruvithuvakodu",
       author: "Dr. D. Veeraragavathatham",
@@ -1170,12 +1169,12 @@ export const songsData = {
       songRagam: "Neelamani",
       songThalam: "Aadi",
       songIntro:
-        "<span>The 66th Divya Desam is திருவித்துவக்கோடு which is situated on the train route from Chennai to Calicut. One has to get down at Pattaambi railway station and travel about 2 miles by road to reach this sthalam. Alternately from Shoranur one can travel for 10miles on the road from the main road take a diversion and travel for about a mile to reach this shrine. The presiding deity is  உய்ய வந்த பெருமாள். Thaayaar name is வித்துவக் கோட்டு வல்லி. Pancha Pandavas during their vanavasam came to this place and got attracted by the beauty of nature near the river Neela established  this temple for Vishnu with 4 statues each one by Dharma, Bhima, Arjuna and one jointly by Nakula and Sahadeva and worshipped. There is another version that even before arrival of Pandavas this temple existed during the period of King Ambarish and by his prayers Lord Mahavishnu appeared before him in four different forms and blessed him for Mukthi. Kulasekara aazhwaar praised this lord in 10 paasurams. Adiyen composed a krithi on Uyyavantha perumal tuned to raagam நீலமணி sang with my wife Mrs Amutha.I have given certain other songs also tuned in this raagam.Please listen and enjoy 🙏</span>",
+        "<span>The 66th Divya Desam is திருவித்துவக்கோடு which is situated on the train route from Chennai to Calicut. One has to get down at Pattaambi railway station and travel about 2 miles by road to reach this sthalam. Alternately from Shoranur one can travel for 10miles on the road from the main road take a diversion and travel for about a mile to reach this shrine. The presiding deity is  உய்ய வந்த பெருமாள். Thaayaar name is வித்துவக் கோட்டு வல்லி. Pancha Pandavas during their vanavasam came to this place and got attracted by the beauty of nature near the river Neela established  this temple for Vishnu with 4 statues each one by Dharma, Bhima, Arjuna and one jointly by Nakula and Sahadeva and worshipped. There is another version that even before arrival of Pandavas this temple existed during the period of King Ambarish and by his prayers Lord Mahavishnu appeared before him in four different forms and blessed him for Mukthi. Kulasekara aazhwaar praised this lord in 10 paasurams. Adiyen composed a krithi on Uyyavantha perumal tuned to raagam நீலமணி sang with my wife Mrs Amutha. Please listen and enjoy 🙏</span>",
       songTunedLike: "enna kavi pADinAlum",
     },
     "Vaamananaai-Vandhu-Moovadi": {
       id: "67",
-      category: "MalaiNaatu Thirupathigal",
+      category: "Malai Naatu Thirupathigal",
       naadu: "malaiNaadu",
       sthalam: "Thirukaatkarai",
       author: "Dr. D. Veeraragavathatham",
@@ -1193,7 +1192,7 @@ export const songsData = {
     },
     "Thirumoozhi-Kalathuraivai": {
       id: "68",
-      category: "MalaiNaatu Thirupathigal",
+      category: "Malai Naatu Thirupathigal",
       naadu: "malaiNaadu",
       sthalam: "Thirumoozhikalam",
       author: "Dr. D. Veeraragavathatham",
@@ -1211,7 +1210,7 @@ export const songsData = {
     },
     "Thiruvalla-Vaazhil": {
       id: "69",
-      category: "MalaiNaatu Thirupathigal",
+      category: "Malai Naatu Thirupathigal",
       naadu: "malaiNaadu",
       sthalam: "Thiruvallavaazh",
       author: "Dr. D. Veeraragavathatham",
@@ -1229,7 +1228,7 @@ export const songsData = {
     },
     "Thirukadithaana-Arpudha-Naranaa": {
       id: "70",
-      category: "MalaiNaatu Thirupathigal",
+      category: "Malai Naatu Thirupathigal",
       naadu: "malaiNaadu",
       sthalam: "Thirukadithaanam",
       author: "Dr. D. Veeraragavathatham",
