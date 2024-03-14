@@ -592,7 +592,7 @@ export const songsData = {
       songRagam: "Kaambodhi",
       songThalam: "Aadi",
       songIntro:
-        "<span>Let us continue our musical journey to next Divyadesam which is the 34th one Thiruvaali-Thirunagari.These are the twin divyadesams but considered as a single divyadesam about 6 km apart from each other near Seerkaazhi. At Thiruvaali  Narasimhar and Amirthakada valli thaayaar while at Thirunagari Amirthavalli Thaayar sametha Lakshmi Narasimhar. The Urchavar name is Kalyana Renganathan.</span>",
+        "<span>Let us continue our musical journey to next Divyadesam which is the 34th one Thiruvaali-Thirunagari.These are the twin divyadesams but considered as a single divyadesam about 6 km apart from each other near Seerkaazhi. At Thiruvaali  Narasimhar and Amirthakada valli thaayaar while at Thirunagari Amirthavalli Thaayar sametha Lakshmi Narasimhar. The Urchavar's name is Kalyana Renganathan.</span>",
       songTunedLike: "Kuzaludhi Manam Ellaam",
     },
     DevargalKoodi: {

@@ -34,7 +34,7 @@ export default function Song({ songs }) {
           </div>
           <div className="grid grid-cols-1 lg:grid-cols-3 xl:grid-cols-2 p-3 lg:space-x-10 xl:space-x-10 pb-20">
             <div className="pr-5 pt-4">
-              <div className="grid w-full grid-cols-4 sm:grid-cols-2 border-solid border-b-2 rounded-md">
+              <div className="grid w-full grid-cols-4 sm:grid-cols-2 border-solid border-b-2 rounded-md p-2">
                 <div className="font-light pl-4 grow-0 col-span-1">Title:</div>
                 <div className="font-bold col-span-3 sm:col-span-1 break-words">
                   {songTitle}
