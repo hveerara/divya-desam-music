@@ -17,6 +17,7 @@ export default function Song({ songs }) {
     songLyrics,
     songRagam,
     songThalam,
+    additionalSongs,
   } = song;
 
   if (songURL && songIntro) {
@@ -93,6 +94,28 @@ export default function Song({ songs }) {
                   </Card>
                 </div>
               </div>
+              {additionalSongs && (
+                <div>
+                  <div className="grid w-full grid-cols-4 sm:grid-cols-2 border-solid border-b-2 rounded-md p-2">
+                    <div className="font-light pl-4 flex grow-0 col-span-1">
+                      Additional Songs:
+                    </div>
+                    <div className="font-bold col-span-3 sm:col-span-1 break-words">
+                      {additionalSongs.map((additionalSong) => (
+                        <iframe
+                          title={songRagam}
+                          src={additionalSong}
+                          width="100%"
+                          height="100"
+                          scrolling="no"
+                          frameBorder="no"
+                          loading="lazy"
+                        ></iframe>
+                      ))}
+                    </div>
+                  </div>
+                </div>
+              )}
             </div>
             <div className="flex sm:pt-10 md:pt-10 lg:pt-4 xl:pt-4 sm:items-start sm:justify-start items-center justify-center">
               <iframe

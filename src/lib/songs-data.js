@@ -680,6 +680,10 @@ export const songsData = {
       songIntro:
         "<span>The next divyadesam which is 41st among the108 in our musical journey is Thiru vahindra puram about 3 km away in the outskirts of Cuddalore town of Tamilnadu. The presiding deity is Devanathan or Deivanayaga perumal. Thaayaar name is Hemambujavalli. There is also a hill temple dedicated to Lord Hayagriva an avatar of Vishnu with horse face. When  Lord Mahavishnu fought with asuras he became thirsty Aadhiseshanor Vaheendran could get potable water by beating the earth with his tail anddigging a well.Garuda too  flew to bring water from  Viraja river but could reach the battle field late. That water flowed as Garuda nadhi. When  a Chozha king who was a core Shaivaire came to this temple and tried to damage the statue of Perumal ,Lord Devanathan appeared before him as Thirumoorthi (as Lord Bramha Lord Shiva and Lord Vishnu)indicating all are one and the same. The king worshipped Lord Devanathan and returned to his palace without doing any damage to the temple and deities.Thirumangai aazhwar praised this Lord in 10 paasurams. The great vaishnava guru swami Vedhantha Desikan reached this shrine and worshipped Lord Hayagriva when Garuda appeared before him and initiated in him Hayagriva upaasana which helped him attatain religious knowledge to its greatest depth. Swami Desikan composed two sanskrit slokas on Devanatha perumal  Devanatha Panchasat and Acchtha Sathakam. In Tamil he made 7 contributions on this Lord namely Mummani kovai, Panthu, Kazhal, Ammaanai, Oosal, Yesal, and Navamani maalai. Adiyen composed a Krithi on Lord Devanathan and tuned to raagam Saamaa. Sang with my wife Mrs Amutha. Please listen and enjoy.</span>",
       songTunedLike: "Manasa sancharare",
+      additionalSongs: [
+        "https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1447651294&color=%23b4e8e8&auto_play=false&hide_related=true&show_comments=false&show_user=true&show_reposts=false&show_teaser=false",
+        "https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1447651261&color=%23b4e8e8&auto_play=false&hide_related=true&show_comments=false&show_user=true&show_reposts=false&show_teaser=false",
+      ],
     },
     "Thirukkovalur-Valar": {
       id: "42",
@@ -697,6 +701,9 @@ export const songsData = {
       songIntro:
         "<span>In our musical journey we are visiting 42nd DD Thirukkovalur situated in the railway route between Villuppuram and Katpadi. The temple is about 2miles away from Thirukkovalur railway station. One can reach this place by bus also from Cuddalore. The presiding deity is Thirivikraman with a posture of lifting one leg up and another on the earth facing east. Thaayaar name is Poonkoval naachiar Urchavar is Aayanaar or Kovaalan  (Gopalan).We all know about Vaamana and Thirivikrama avathaar puraana  of Mahavishnu said to have happened in Thredha yuga of  which I have  narrated in the Krithi. Later after a long  time sage Mirukandu who was the father of Rishi Markandeya wanted to see the above two avataars of Mahavishnu took up thapa near Pennai river as per the advise of Lord Brahma. Lord Mahavishnu appeared before him and his wife Mitravathi and showed the the two avatars posture. In Thirukkovalur only Divyaprabhandham arose first from the mouth of Mutual aazhwars namely Poigai aazhwar, Boothathaazhwar and Peyaazhwaar.</span>",
       songTunedLike: "Sarasijanabha Sodari",
+      additionalSongs: [
+        "https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1447656985&color=%23b4e8e8&auto_play=false&hide_related=true&show_comments=false&show_user=true&show_reposts=false&show_teaser=false",
+      ],
     },
   },
   thondaiNaadu: {
@@ -1088,6 +1095,10 @@ export const songsData = {
       songIntro:
         "<span>We have finished our musical journey to Thondai mandala Divya Desams and now proceeding to Malainaattu Divya Desams viz., those in Kerala.The 65th DD is திருநாவாய் in Malappuram district of Kerala. One can reach this sthalam by train in the route from Shoranur to Calicut by getting down at Thirunaavayee railway station which is between Pattaambi and Calicut.The presiding deity is நாவாய் முகுந்த்தன் and thaayaar name is மலர்மங்கை நாச்சியார். Nine Yogis came to this sthalam and performed thapa praying this lord. This shrine is situated on the banks of the river Bharathapuzha and just like Kasi here also rituals for the ancestors are performed. Once Goddess Mahalakshmi and lord Ganapathi (Gajendran) performed puja by plucking flowers and offering to Vishnu. When Mahalakshmi was visiting the garden earlier and plucking flowers Gajendra couldn't get any flowers for puja and so he prayed to Mahavishnu to make flowers available for his Pooja. Mahavishnu told Mahalakshmi not to pluck flowers before Gajendran's visit to garden. When Lakshmi accepted for this Gajendran could get lot of flowers for worship and he was very happy. Mahalakshmi offered equal seat to Gajendra and they both performed the Pooja . Vishnu appeared before them in a standing posture and blessed them. Unlike other Divya Desams in Kerala Lakshmi has a separate sannidhi in this sthalam. Thirumangai aazhwaar praised this perumal through 2 paasurams while Nammazhwaar in 11 paasurams. Adiyen composed a krithi on this lord tuned to the raagam யதுகுல காம்போதி and sang with my wife Mrs Amutha. I have given a few examples of songs in this raagam. Please listen and enjoy 🙏</span>",
       songTunedLike: "",
+      additionalSongs: [
+        "https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1671548802&color=%23b4e8e8&auto_play=false&hide_related=true&show_comments=false&show_user=true&show_reposts=false&show_teaser=false",
+        "https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1671548637&color=%23b4e8e8&auto_play=false&hide_related=true&show_comments=false&show_user=true&show_reposts=false&show_teaser=false",
+      ],
     },
     "Uyya-Vandha-Perumale": {
       id: "66",
@@ -1105,6 +1116,9 @@ export const songsData = {
       songIntro:
         "<span>The 66th Divya Desam is திருவித்துவக்கோடு which is situated on the train route from Chennai to Calicut. One has to get down at Pattaambi railway station and travel about 2 miles by road to reach this sthalam. Alternately from Shoranur one can travel for 10miles on the road from the main road take a diversion and travel for about a mile to reach this shrine. The presiding deity is  உய்ய வந்த பெருமாள். Thaayaar name is வித்துவக் கோட்டு வல்லி. Pancha Pandavas during their vanavasam came to this place and got attracted by the beauty of nature near the river Neela established  this temple for Vishnu with 4 statues each one by Dharma, Bhima, Arjuna and one jointly by Nakula and Sahadeva and worshipped. There is another version that even before arrival of Pandavas this temple existed during the period of King Ambarish and by his prayers Lord Mahavishnu appeared before him in four different forms and blessed him for Mukthi. Kulasekara aazhwaar praised this lord in 10 paasurams. Adiyen composed a krithi on Uyyavantha perumal tuned to raagam நீலமணி sang with my wife Mrs Amutha. Please listen and enjoy 🙏</span>",
       songTunedLike: "enna kavi pADinAlum",
+      additionalSongs: [
+        "https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1671548883&color=%23b4e8e8&auto_play=false&hide_related=true&show_comments=false&show_user=true&show_reposts=false&show_teaser=false",
+      ],
     },
     "Vaamananaai-Vandhu-Moovadi": {
       id: "67",
@@ -1122,6 +1136,10 @@ export const songsData = {
       songIntro:
         "<span>In our musical journey to Vaishnava Divya Desams the 67th DD is திருக்காட்கரை It is situated in Ernakulam district in Kerala in the train route from Shoranur to Ernakulam.One has to get down at Idappalli railway station and travel towards east for about 2 miles to reach this shrine. The presiding deity is Vaamana moorthy who is known by the name காட்கரையப்பன் (அ) அப்பன்.Thayaar name is பெருஞ்செல்வ நாயகி(வாத்ஸல்ய வல்லி). This region was once ruled by Asura king Mahabali chakra varthi who was known for his liberal character of giving wealth to saints and  poor people.In fact he was very proud of this trait. Lord Vaamana who was the 5th incarnation of lord Mahavishnu was born on a Thiruvonam star to sage Kashyapa and Adhithi.He was dwarf in stature. Vaamana went to him seeking for a Biksha of three feet land as per the measurement of his own feet. Upon seeing the small stature of the boy and his request Mahabali was laughing and accepted to donate the piece of land to him. Immediately Vaamana took the form of huge figure of Thirivikrama reaching sky height and started measuring the earth and sky with his two feet .When he asked Mahabali where to step for the third feet measurement king Mahabali realised his mistake bowed before Thirivikrama and requested him to step on his head.Mahavishu pushed him to paathaala loka but gave him Mukthi. Based on the request of Mahabali lord permitted him to visit his hometown and citizens once a year that is on the birthday of lord Vaamana the Thiruvonam star of the month Aavani which is celebrated as Oonam. Once a farmer was growing banana crop in this region. Though the growth was good it never came to flowering. So he prayed to Lord Kaatkaraiappan and offered a golden banana bunch to him.After this the crop came to bunching and he had a bumper harvest. In his 11paasurams Swami Nammazhwaar praised this lord. Adiyen composed a krithi on Kaatkaraiappan tuned to the raagam சந்திரகௌன்ஸ். Myself with my wife Mrs Amutha sang and sent as an audio. Please listen and enjoy 🙏</span>",
       songTunedLike: "Kandena Govindana",
+      additionalSongs: [
+        "https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1671549432&color=%23b4e8e8&auto_play=false&hide_related=true&show_comments=false&show_user=true&show_reposts=false&show_teaser=false",
+        "https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1671549429&color=%23b4e8e8&auto_play=false&hide_related=true&show_comments=false&show_user=true&show_reposts=false&show_teaser=false",
+      ],
     },
     "Thirumoozhi-Kalathuraivai": {
       id: "68",
@@ -1139,6 +1157,11 @@ export const songsData = {
       songIntro:
         "<span>We are now travelling to 68th Divya Desam திருமூழிக்களம் in Kerala through our musical journey . There are lot of bus services from Aluva town to this shrine which is at about 15 km away from there. The nearest railway station is Angamaly which is in between Shoranur and Aluva. The presiding deity is திருமூழிக்களத்தான் (அ) ஸ்ரீஸூக்திநாதன் (அ) அப்பன். Thaayaar name is மதுரவேணி நாச்சியார். Once saint Haritha maharishi was doing a penance seeking the grace of Lord Narayanan who appeared before him and asked what did he wanted.The Rishi requested Him to preach the manthra to attain His lotus feet.Lord preached him the Shreesukthi.So this place was known by the name திருமொழிக்களம் which in due course of time modified as திருமூழிக்களம். During Threthayuga (period of Ramayan) Lakshmana visited this shrine and worshipped this lord to get away from the sin committed through thinking to kill Bharatha at Chithrakood by misunderstanding that he came there to fight with Lord Rama and kill him.When Lakshmana visited here Bharatha also came here met him and they embraced each other. Lakshmana was said to have built gopuram and mandapam for this shrine. Nammazhwaar and Thirumangai aazhwaar have praised this lord in their paasurams. Adiyen composed a krithi on this shrine tuned to raagam ஹேமவதி sang with my wife Mrs Amutha. Please listen and enjoy 🙏</span>",
       songTunedLike: "",
+      additionalSongs: [
+        "https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1671550923&color=%23b4e8e8&auto_play=false&hide_related=true&show_comments=false&show_user=true&show_reposts=false&show_teaser=false",
+        "https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1671550920&color=%23b4e8e8&auto_play=false&hide_related=true&show_comments=false&show_user=true&show_reposts=false&show_teaser=false",
+        "https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1671550914&color=%23b4e8e8&auto_play=false&hide_related=true&show_comments=false&show_user=true&show_reposts=false&show_teaser=false",
+      ],
     },
     "Thiruvalla-Vaazhil": {
       id: "69",
@@ -1156,6 +1179,10 @@ export const songsData = {
       songIntro:
         "<span>To continue our travel to Vaishnava Divya Desams through music we are proceeding to 69th DD திருவல்லவாழ் which is called as திருவல்லா by the local Kerala people. It is situated in the train route in between Kollam and Ernakulam. From Thiruvalla RS the shrine is located at a distance of 4Km. From Kottayam lot of buses are plying to this place. The sthala purana goes like this. From a village Sankara mangalam a lady was regularly visiting this place and performing Ekadasi viradham followed by feeding of poor brahma charis on the next day the Dwadashi. One demon by name Tholakasuran was disturbing her and not allowing to complete viradham.So she represented and prayed Lord Mahavishnu to save her. The Lord appeared as a brahmachari and faught with the demon on an Ekadashi and killed him.by his Sudharshana chkra.He visited Sankara mangala Amma on the next day Dwadhashi for dining.He was trying to close his chest with the angavasthiram as he wanted to hide Lakshmi who was sitting there .But the lady noticed it and understood that the person was none other than the lord Mahavishnu.She prayed to to show his chest to have the dharshan of Mahalaxmi.Lord Vishnu obliged to her request. The lady served food in an areca palm leaf with salted unripe mango. Lord took the food with pleasure and stayed in this place along with Laxmi on his chest.Hence he was also known by the name திருவாழ்மார்பன் Thirumangai aazhwaar and Nammazhwaar praised this lord in their paasurams. Adiyen composed a krithi on this shrine tuned to the raagam நாதநாமக்ரியா sang with my wife Mrs Amutha. Please listen and enjoy 🙏</span>",
       songTunedLike: "Uzhandru Thirindha Ennai",
+      additionalSongs: [
+        "https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1671551556&color=%23b4e8e8&auto_play=false&hide_related=true&show_comments=false&show_user=true&show_reposts=false&show_teaser=false",
+        "https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1671551550&color=%23b4e8e8&auto_play=false&hide_related=true&show_comments=false&show_user=true&show_reposts=false&show_teaser=false",
+      ],
     },
     "Thirukadithaana-Arpudha-Naranaa": {
       id: "70",
@@ -1171,8 +1198,12 @@ export const songsData = {
       songRagam: "Hamsanaadham",
       songThalam: "Deshaadi",
       songIntro:
-        "<span>The 70th DD Thirukadithanam (திருக்கடித் தானம்)  is situated 3km east of a place called Changanassery which is in between Kottayam and Thiruvalla. The Presiding deity is Arputha Narayanan. Tha purana goes like this. Once upon a time from the gardens of the King Rukmankadhan Devas from eternal world used to collect beautiful flowers without his knowledge and offered to the Lord Vishnu for Puja. When the king came to know this he captured all Devas and imprisoned them with the result they could not return to eternal world. When Devas wanted a remedy for this they heard a voice from the air that if king Rukmangatha gives away his 'Punya' of Ekadasi Vridha he adopted to Devas they would be able to return to the divine world. So they prayed the king to help them. King Rukmangatha brought them in front of this deity and gave away all 'Punyas' by which the Devas were relieved of their sin and they reached their divine world. All these were said to have happened in a time of one 'Kadigai' or Naazhingai 'நாழிகை' that is 24 minutes. So it is said that if anybody does a serious prayer for a period of one Kadigai time in this shrine his/her prayers will be fulfilled.If they desire 'Moksha ' and pray for 24 minutes in this shrine it will also be fulfilled by the Lord of this shrine. Among the Panchapandavas, the youngest brother Sahadevan was said to have renovated this temple and worshipped the Lord. Thaayaar name is Karpagavalli Nammazhwaar has praised this Lord in 11 paasurams. Adiyen composed a krithi on this shrine tuned to ragam Hamsanadham ( ஹம்ஸநாதம்) sang along with my wife Mrs. Amutha. Please listen and enjoy.🙏</span>",
+        "<span>The 70th DD Thirukadithanam (திருக்கடித் தானம்) is situated 3km east of a place called Changanassery which is in between Kottayam and Thiruvalla. The Presiding deity is Arputha Narayanan. Tha purana goes like this. Once upon a time from the gardens of the King Rukmankadhan Devas from eternal world used to collect beautiful flowers without his knowledge and offered to the Lord Vishnu for Puja. When the king came to know this he captured all Devas and imprisoned them with the result they could not return to eternal world. When Devas wanted a remedy for this they heard a voice from the air that if king Rukmangatha gives away his 'Punya' of Ekadasi Vridha he adopted to Devas they would be able to return to the divine world. So they prayed the king to help them. King Rukmangatha brought them in front of this deity and gave away all 'Punyas' by which the Devas were relieved of their sin and they reached their divine world. All these were said to have happened in a time of one 'Kadigai' or Naazhingai 'நாழிகை' that is 24 minutes. So it is said that if anybody does a serious prayer for a period of one Kadigai time in this shrine his/her prayers will be fulfilled.If they desire 'Moksha ' and pray for 24 minutes in this shrine it will also be fulfilled by the Lord of this shrine. Among the Panchapandavas, the youngest brother Sahadevan was said to have renovated this temple and worshipped the Lord. Thaayaar name is Karpagavalli Nammazhwaar has praised this Lord in 11 paasurams. Adiyen composed a krithi on this shrine tuned to ragam Hamsanadham ( ஹம்ஸநாதம்) sang along with my wife Mrs. Amutha. Please listen and enjoy.🙏</span>",
       songTunedLike: "Bantu Reeti Koluvu",
+      additionalSongs: [
+        "https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1671551946&color=%23b4e8e8&auto_play=false&hide_related=true&show_comments=false&show_user=true&show_reposts=false&show_teaser=false",
+        "https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1671551922&color=%23b4e8e8&auto_play=false&hide_related=true&show_comments=false&show_user=true&show_reposts=false&show_teaser=false",
+      ],
     },
     Imayavarappan: {
       id: "71",
@@ -1189,6 +1220,9 @@ export const songsData = {
       songIntro:
         "<span><p>The 71st DD is Thiruchenkunrur can be reached from Thiruvalla by bus. From Thiruvananthapuram to Ernakulam via Kollam there is a railway station Chenkannur. From this station one can reach the temple.</p><br/><p>The presiding deity is Imayavar Appan. Thaayaar name is Senkamalavalli. Thiruchitraaru is the river that flows near this shrine.</p><br/<p>During Mahabharatha war King Dharma told a lie that Ashvathama, son of Dhrona, died hiding the fact that an elephant in the name Ashvathama died. When Dhrona heard this he was much upset and put down his bow and arrows. He was defeated  and  killed in the war. To do the prayachitha for the sin committed king Dharma came to this forest and performed Thapa. He also renovated the temple for Mahavishnu here and performed Pooja. Since Lord Mahavishnu was considered as father of Devas in this shrine his name goes as இமையவர் அப்பன். Nammazhwaar praised this shrine in 10 paasurams. Adiyen composed a krithi on this lord tuned to ragam Dharbaar. Please listen and enjoy.</p></span>",
       songTunedLike: "",
+      additionalSongs: [
+        "https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1773796212&color=%23b4e8e8&auto_play=false&hide_related=true&show_comments=false&show_user=true&show_reposts=false&show_teaser=false",
+      ],
     },
     Kuttanaadenum: {
       id: "72",
@@ -1215,12 +1249,16 @@ export const songsData = {
       songLyrics: "",
       songTitle: "Thiruvaaranvilai Urai",
       songURL:
-        "https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1773802245&color=%23b4e8e8&auto_play=false&hide_related=true&show_comments=false&show_user=true&show_reposts=false&show_teaser=false",
+        "https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1773801957&color=%23b4e8e8&auto_play=false&hide_related=true&show_comments=false&show_user=true&show_reposts=false&show_teaser=false",
       songRagam: "Rathipathipriya",
       songThalam: "",
       songIntro:
         "<span><p>Dear all, we will now travel through our musical journey to 73rd DD திருவாறன்விளை (ஆரம்முளா). It is situated at a distance of about 10km from Chenkannur, Keral.</p><br/><p>During the Mahabharatha period, when Pandavaas were in the forest to hide and live they came to this place. Arjuna kept his Bows and arrows under a vanni tree and buried them so that nobody could see. During the war as directed by Krishna, Arjuna killed Karna when he was in distress because the wheel of his chariot got stuck in to the soil. To do the prayachitha for that deed, Arjuna came back to this place again and performed Thapa praying to Lord Mahavishnu. He renovated the temple here and worshipped the Lord.</p><br/><p>Brahma had also expressed his gratitude at this shrine because Vishnu had killed the asuras Madhu and Kaidapa and got the Vedas back, and Vishnu appeared as திருக்குறளப்பன் in answer to the prayers of Brahma.<p>The presiding deity is திருக்குறளப்பன். Thaayaar name is Padmasani Thaayaar. Nammaazhvar has praised this Lord in 11 paasurams. Adiyen composed a krithi on this shrine tuned to ragam ரதிபதிப்ரியா. I have sung this song along with my wife Mrs. Amutha and my daughter Mrs. Hema. Please listen and enjoy 🙏</p></span>",
       songTunedLike: "",
+      additionalSongs: [
+        "https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1773801981&color=%23b4e8e8&auto_play=false&hide_related=true&show_comments=false&show_user=true&show_reposts=false&show_teaser=false",
+        "https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1773801966&color=%23b4e8e8&auto_play=false&hide_related=true&show_comments=false&show_user=true&show_reposts=false&show_teaser=false",
+      ],
     },
     "Thiruvanvandoor-Selveno": {
       id: "74",
@@ -1237,6 +1275,10 @@ export const songsData = {
       songIntro:
         "<span>Dear all, our musical journey is now towards 74th DD. It is situated about three and half miles North of Chenkannur viz., in between Chenkannur and Thiruvella on the route of Erimelikkarai on the northern side of river Pamba.</p><br/><p>The purana goes like this: Once there was an argument between Brahma and saint Naradha when Brahma cursed him to go to Booloka. So he got down from Sathyaloka and reached this place where he performed Thapa. When Lord Mahavishnu appeared before him Naradha asked about the basis of creation of life. Lord Mahavishnu explained and Naradha understood that every living and non living thing comes from Narayana only who is the sole creator of the Universe. So Naradha wrote this as Naratheya purana. Among the Pancha Pandavas who came to this place Nakula worshipped this Lord and renovated the temple.</p><br/><p>The presiding deity is கமலநாதன் (a) பாம்பணையப்பன். Thaayaar name is கமலவல்லி நாச்சியார். Nammaazhvar has praised this Lord in 10 paasurams. Adiyen composed a krithi on this shrine tuned to raagam ஜோன்புரி sang with my wife Mrs. Amutha. Please listen and enjoy 🙏</p></span>",
       songTunedLike: "",
+      additionalSongs: [
+        "https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1773802290&color=%23b4e8e8&auto_play=false&hide_related=true&show_comments=false&show_user=true&show_reposts=false&show_teaser=false",
+        "https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1773802287&color=%23b4e8e8&auto_play=false&hide_related=true&show_comments=false&show_user=true&show_reposts=false&show_teaser=false",
+      ],
     },
   },
 };
