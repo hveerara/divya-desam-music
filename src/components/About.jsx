@@ -11,7 +11,7 @@ export default function About() {
         className="flex flex-col items-center justify-center font-poppins "
       >
         <div
-          className="absolute inset-0 bg-contain bg-no-repeat bg-center"
+          className="fixed inset-0 bg-contain bg-no-repeat bg-center"
           style={{
             backgroundImage: "url(/img/Ranga.jpeg)",
             margin: 0,
