@@ -1,9 +1,13 @@
+import { useEffect } from "react";
 import { useParams } from "react-router-dom";
 import { Card, CardContent, CardDescription } from "semantic-ui-react";
 import ComingSoon from "./ComingSoon";
 import Footer from "./Footer";
 import Navbar from "./Navbar";
 export default function Song({ songs }) {
+  useEffect(() => {
+    window.scrollTo(0, 0);
+  }, []);
   let { songTitle } = useParams();
   const song = songs[songTitle];
   songTitle = songTitle.replace(/-/g, " ");
